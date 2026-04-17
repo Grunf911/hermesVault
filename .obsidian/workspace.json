@@ -13,8 +13,8 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "concepts/alannotion-master-prompt.md",
-                "bFile": "concepts/alannotion-master-prompt.md",
+                "aFile": "entities/alannotion.md",
+                "bFile": "entities/alannotion.md",
                 "aRef": ""
               },
               "icon": "diff",
@@ -194,8 +194,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "12eecf72fdb8c6b7",
+  "active": "c61d1432cbd71296",
   "lastOpenFiles": [
+    "raw/youtube-operator-academy-marketing-strategist.pdf",
+    "raw/youtube-operator-academy-knowledge-base.pdf",
+    "concepts/youtube-operator-academy-marketing-strategist.md",
+    "concepts/youtube-operator-academy-knowledge-base.md",
     "wiki/log.md",
     "wiki/index.md",
     "entities/youtube-operator-academy.md",
