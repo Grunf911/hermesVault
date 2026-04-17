@@ -46,6 +46,7 @@ Use only tags from this taxonomy. Add new tags here before using them.
 - marketing
 - engineering
 - research
+- education
 - decision
 - meeting
 - task
