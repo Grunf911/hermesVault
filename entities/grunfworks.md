@@ -13,6 +13,11 @@ contradictions: []
 ## Overview
 GrunfWorks is a YouTube gaming channel focused on space games let's plays.
 
+Favorite Games:
+* Kerbal Space Program
+* Occupy Mars: The Game
+* Star Citizen
+
 ## Positioning
 - Content theme: space games
 - Format: let's plays
