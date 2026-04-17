@@ -7,12 +7,15 @@ tags: [business, company, project, strategy, marketing, product, note]
 sources:
   - raw/grunfworks-master-prompt.pdf
 contradictions: []
+homepage: https://youtube.com/@grunfworks
 ---
 
 # GrunfWorks
 
 ## Overview
 GrunfWorks is Alan Graf's long-term gaming creator brand. Productivity is a support system for the creator business, not the brand itself.
+
+Channel homepage: https://youtube.com/@grunfworks
 
 ## Core niche
 - Space games

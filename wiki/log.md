@@ -55,3 +55,29 @@
 - Created: concepts/youtube-operator-academy-marketing-strategist.md
 - Updated: entities/youtube-operator-academy.md, wiki/index.md
 - Captured the promotion, visibility, conversion, channel strategy, and cadence rules for Academy marketing.
+
+## [2026-04-17] update | GrunfWorks channel homepage
+- Updated: entities/grunfworks.md, wiki/index.md
+- Set the GrunfWorks YouTube channel homepage to https://youtube.com/@grunfworks.
+
+## [2026-04-17] update | SurvivalJoe channel homepage
+- Updated: entities/survivaljoe.md, wiki/index.md
+- Set the SurvivalJoe YouTube channel homepage to https://youtube.com/@survivaljoe.
+
+## [2026-04-17] update | AlanNotion channel, social, and store links
+- Updated: entities/alannotion.md, wiki/index.md
+- Set AlanNotion's YouTube channel homepage, Twitter account, and Gumroad store URL.
+
+## [2026-04-17] update | AlanNotion store catalog
+- Updated: entities/alannotion.md
+- Added a store catalog split into free lead magnets and paid products, with a note that free items can be used in promotion.
+
+## [2026-04-17] create | AlanNotion promotion map
+- Created: concepts/alannotion-promotion-map.md
+- Updated: entities/alannotion.md, wiki/index.md
+- Added a simple promotion map connecting free lead magnets to paid products and a weekly operating loop.
+
+## [2026-04-17] create | AlanNotion weekly execution checklist
+- Created: concepts/alannotion-weekly-execution-checklist.md
+- Updated: entities/alannotion.md, wiki/index.md
+- Added a weekly checklist covering product selection, lead magnet matching, drafting, approval, publishing, and logging results to the daily journal.

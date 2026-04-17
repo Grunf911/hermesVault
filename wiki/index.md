@@ -5,9 +5,9 @@
 > Last updated: 2026-04-17 | Total pages: 10
 
 ## Companies
-- [[alannotion]] — Notion template business selling on Gumroad and other stores.
-- [[grunfworks]] — YouTube gaming channel focused on space games let's plays.
-- [[survivaljoe]] — YouTube survival games channel with tips, reviews, and let's plays.
+- [[alannotion]] — Notion template business selling on Gumroad and other stores. Channel homepage: https://youtube.com/@alannotion. Twitter: https://x.com/alannotion. Store: https://alannotion.gumroad.com/.
+- [[grunfworks]] — YouTube gaming channel focused on space games let's plays. Homepage: https://youtube.com/@grunfworks.
+- [[survivaljoe]] — YouTube survival games channel with tips, reviews, and let's plays. Homepage: https://youtube.com/@survivaljoe.
 - [[youtube-operator-academy]] — Skool community for growing on YouTube without overwhelm.
 
 ## Projects
@@ -19,6 +19,8 @@
 ## Meetings
 
 ## Concepts
+- [[alannotion-promotion-map]] — Free lead magnets mapped to paid AlanNotion products.
+- [[alannotion-weekly-execution-checklist]] — Weekly execution checklist for AlanNotion promotion and journal logging.
 - [[alannotion-master-prompt]] — Strategic operating system for the AlanNotion business.
 - [[grunfworks-lets-play-planner]] — Specialized prompt for planning GrunfWorks Let’s Play series.
 - [[youtube-operator-academy-knowledge-base]] — Tactical framework for ideas, titles, thumbnails, and hooks.

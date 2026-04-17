@@ -6,12 +6,15 @@ type: company
 tags: [business, company, project, marketing, strategy, note]
 sources: []
 contradictions: []
+homepage: https://youtube.com/@survivaljoe
 ---
 
 # SurvivalJoe
 
 ## Overview
 SurvivalJoe is a YouTube survival games channel centered on tips, reviews, and survival game let's plays.
+
+Channel homepage: https://youtube.com/@survivaljoe
 
 ## Positioning
 - Content theme: survival games
