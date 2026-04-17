@@ -16,3 +16,18 @@
 ## [2026-04-17] update | Schema taxonomy
 - Updated: wiki/SCHEMA.md
 - Added the education tag to support the YouTube Operator Academy page.
+
+## [2026-04-17] query | GrunfWorks favorite games
+- Read: wiki/index.md, entities/grunfworks.md
+- Result not filed as a separate query page because it was a simple lookup.
+
+## [2026-04-17] ingest | GrunfWorks master prompt
+- Copied source PDF to raw/grunfworks-master-prompt.pdf
+- Updated: entities/grunfworks.md
+- Distilled brand identity, content strategy, audience, products, monetization, constraints, AI rules, and 3-year vision.
+
+## [2026-04-17] ingest | GrunfWorks Let’s Play Planner
+- Copied source PDF to raw/grunfworks-lets-play-planner.pdf
+- Created: concepts/grunfworks-lets-play-planner.md
+- Updated: entities/grunfworks.md, wiki/index.md
+- Captured the specialized sub-prompt for planning long-form GrunfWorks Let’s Play series.

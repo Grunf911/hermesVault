@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-17 | Total pages: 5
+> Last updated: 2026-04-17 | Total pages: 6
 
 ## Companies
 - [[alannotion]] — Notion template business selling on Gumroad and other stores.
@@ -19,6 +19,7 @@
 ## Meetings
 
 ## Concepts
+- [[grunfworks-lets-play-planner]] — Specialized prompt for planning GrunfWorks Let’s Play series.
 
 ## Comparisons
 
