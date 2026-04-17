@@ -18,6 +18,9 @@ AlanNotion is the business for building and selling Notion templates on Gumroad 
 - Distribution: Gumroad and other marketplaces
 - Business role: digital product business
 
+## Master prompt
+- [[alannotion-master-prompt]] — Strategic operating system for the AlanNotion business
+
 ## Related pages
 - [[business-portfolio]]
 - [[youtube-operator-academy]]

@@ -31,3 +31,9 @@
 - Created: concepts/grunfworks-lets-play-planner.md
 - Updated: entities/grunfworks.md, wiki/index.md
 - Captured the specialized sub-prompt for planning long-form GrunfWorks Let’s Play series.
+
+## [2026-04-17] ingest | AlanNotion master prompt
+- Copied source PDF to raw/alannotion-master-prompt.pdf
+- Created: concepts/alannotion-master-prompt.md
+- Updated: entities/alannotion.md, wiki/index.md
+- Distilled identity, constraints, positioning, audience, product ecosystem, revenue goals, community role, and force-multiplier framing.
