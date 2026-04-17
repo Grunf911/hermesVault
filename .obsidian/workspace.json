@@ -11,14 +11,14 @@
             "id": "12eecf72fdb8c6b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "entities/grunfworks.md",
-                "mode": "source",
-                "source": false
+                "aFile": "concepts/alannotion-master-prompt.md",
+                "bFile": "concepts/alannotion-master-prompt.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "grunfworks"
+              "icon": "diff",
+              "title": "Diff: alannotion-master-prompt  (Working Tree)"
             }
           }
         ]
@@ -196,16 +196,21 @@
   },
   "active": "12eecf72fdb8c6b7",
   "lastOpenFiles": [
+    "wiki/log.md",
+    "wiki/index.md",
+    "entities/youtube-operator-academy.md",
+    "raw/youtube-operator-academy-master-prompt.pdf",
+    "concepts/youtube-operator-academy-master-prompt.md",
+    "concepts/alannotion-master-prompt.md",
+    "entities/alannotion.md",
+    "entities/grunfworks.md",
+    "raw/alannotion-master-prompt.pdf",
     "raw/grunfworks-master-prompt.pdf",
     "raw/grunfworks-lets-play-planner.pdf",
     "raw",
     "concepts/grunfworks-lets-play-planner.md",
-    "entities/alannotion.md",
     "concepts/business-portfolio.md",
-    "wiki/index.md",
-    "entities/youtube-operator-academy.md",
     "entities/survivaljoe.md",
-    "entities/grunfworks.md",
     "entities",
     "concepts"
   ]
