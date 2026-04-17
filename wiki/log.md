@@ -43,3 +43,15 @@
 - Created: concepts/youtube-operator-academy-master-prompt.md
 - Updated: entities/youtube-operator-academy.md, wiki/index.md
 - Captured the Academy’s role, audience, community design, teaching philosophy, monetization, and assistant behavior rules.
+
+## [2026-04-17] ingest | YouTube Operator Academy knowledge base
+- Copied source PDF to raw/youtube-operator-academy-knowledge-base.pdf
+- Created: concepts/youtube-operator-academy-knowledge-base.md
+- Updated: entities/youtube-operator-academy.md, wiki/index.md
+- Captured the content engine for ideas, titles, thumbnails, hooks, checklists, and workflow.
+
+## [2026-04-17] ingest | YouTube Operator Academy marketing strategist
+- Copied source PDF to raw/youtube-operator-academy-marketing-strategist.pdf
+- Created: concepts/youtube-operator-academy-marketing-strategist.md
+- Updated: entities/youtube-operator-academy.md, wiki/index.md
+- Captured the promotion, visibility, conversion, channel strategy, and cadence rules for Academy marketing.

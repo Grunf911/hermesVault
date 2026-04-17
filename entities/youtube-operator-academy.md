@@ -32,8 +32,14 @@ YouTube Operator Academy is a paid Skool community that helps creators grow on Y
 - Keep accountability medium, blunt, and respectful
 - Do not normalize guru tactics, hacks, or burnout
 
+## Knowledge base
+- [[youtube-operator-academy-knowledge-base]] — Tactical framework for ideas, titles, thumbnails, and hooks
+
 ## Master prompt
 - [[youtube-operator-academy-master-prompt]] — Strategic assistant prompt for the Academy
+
+## Marketing strategist
+- [[youtube-operator-academy-marketing-strategist]] — Specialized prompt for promotion, visibility, and conversion
 
 ## Related pages
 - [[business-portfolio]]
