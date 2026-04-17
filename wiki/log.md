@@ -37,3 +37,9 @@
 - Created: concepts/alannotion-master-prompt.md
 - Updated: entities/alannotion.md, wiki/index.md
 - Distilled identity, constraints, positioning, audience, product ecosystem, revenue goals, community role, and force-multiplier framing.
+
+## [2026-04-17] ingest | YouTube Operator Academy master prompt
+- Copied source PDF to raw/youtube-operator-academy-master-prompt.pdf
+- Created: concepts/youtube-operator-academy-master-prompt.md
+- Updated: entities/youtube-operator-academy.md, wiki/index.md
+- Captured the Academy’s role, audience, community design, teaching philosophy, monetization, and assistant behavior rules.

@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-17 | Total pages: 7
+> Last updated: 2026-04-17 | Total pages: 8
 
 ## Companies
 - [[alannotion]] — Notion template business selling on Gumroad and other stores.
@@ -21,6 +21,7 @@
 ## Concepts
 - [[alannotion-master-prompt]] — Strategic operating system for the AlanNotion business.
 - [[grunfworks-lets-play-planner]] — Specialized prompt for planning GrunfWorks Let’s Play series.
+- [[youtube-operator-academy-master-prompt]] — Strategic assistant prompt for the Academy.
 
 ## Comparisons
 
