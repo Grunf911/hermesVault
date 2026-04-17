@@ -8,22 +8,35 @@ sources: []
 contradictions: []
 homepage: https://youtube.com/@alannotion
 twitter: https://x.com/alannotion
+instagram: https://www.instagram.com/alannotion
 store: https://alannotion.gumroad.com/
 ---
 
 # AlanNotion
 
 ## Overview
-AlanNotion is the business for building and selling Notion templates on Gumroad and other stores.
+AlanNotion is the business for helping parents, dads, moms, and entrepreneurs buy back their time with productivity templates and related digital products.
 
 Channel homepage: https://youtube.com/@alannotion
 Twitter: https://x.com/alannotion
+Instagram: https://www.instagram.com/alannotion
 Store: https://alannotion.gumroad.com/
 
+## Subscriber history
+Keep the latest 10 snapshots only.
+- 2026-04-17 — 46 subscribers
+
 ## Positioning
-- Offer: Notion templates
+- Primary goal: help people buy back time with useful templates
+- Offer: productivity templates and digital products
 - Distribution: Gumroad and other marketplaces
 - Business role: digital product business
+
+## Social strategy
+- YouTube: build in public with step-by-step template creation, product demos, and marketing tips
+- X / Twitter: share insights, journey updates, and engage with real people in the creator / entrepreneur space
+- Instagram: planned later; strategy not finalized yet
+- Content themes: productivity, Notion templates, creator workflow, sales, and clarity for struggling creators
 
 ## Store catalog
 ### Free lead magnets

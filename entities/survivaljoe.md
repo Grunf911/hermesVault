@@ -16,6 +16,10 @@ SurvivalJoe is a YouTube survival games channel centered on tips, reviews, and s
 
 Channel homepage: https://youtube.com/@survivaljoe
 
+## Subscriber history
+Keep the latest 10 snapshots only.
+- 2026-04-17 — 1,500 subscribers
+
 ## Positioning
 - Content theme: survival games
 - Formats: tips, reviews, let's plays

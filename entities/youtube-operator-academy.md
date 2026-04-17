@@ -6,12 +6,19 @@ type: company
 tags: [business, company, project, marketing, education, strategy, note]
 sources: []
 contradictions: []
+homepage: https://youtube.com/@youtubeoperatoracademy
 ---
 
 # YouTube Operator Academy
 
 ## Overview
 YouTube Operator Academy is a paid Skool community that helps creators grow on YouTube without burnout.
+
+Channel homepage: https://youtube.com/@youtubeoperatoracademy
+
+## Subscriber history
+Keep the latest 10 snapshots only.
+- 2026-04-17 — 3 subscribers
 
 ## Positioning
 - Offer: structured execution environment with feedback

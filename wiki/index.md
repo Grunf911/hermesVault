@@ -5,10 +5,10 @@
 > Last updated: 2026-04-17 | Total pages: 10
 
 ## Companies
-- [[alannotion]] — Notion template business selling on Gumroad and other stores. Channel homepage: https://youtube.com/@alannotion. Twitter: https://x.com/alannotion. Store: https://alannotion.gumroad.com/.
+- [[alannotion]] — Notion template business focused on helping parents, dads, moms, and entrepreneurs buy back time. Channel homepage: https://youtube.com/@alannotion. Twitter: https://x.com/alannotion. Instagram: https://www.instagram.com/alannotion. Store: https://alannotion.gumroad.com/.
 - [[grunfworks]] — YouTube gaming channel focused on space games let's plays. Homepage: https://youtube.com/@grunfworks.
 - [[survivaljoe]] — YouTube survival games channel with tips, reviews, and let's plays. Homepage: https://youtube.com/@survivaljoe.
-- [[youtube-operator-academy]] — Skool community for growing on YouTube without overwhelm.
+- [[youtube-operator-academy]] — Skool community for growing on YouTube without overwhelm. Channel homepage: https://youtube.com/@youtubeoperatoracademy. Subscriber history: 2026-04-17 — 3 subscribers.
 
 ## Projects
 

@@ -64,9 +64,25 @@
 - Updated: entities/survivaljoe.md, wiki/index.md
 - Set the SurvivalJoe YouTube channel homepage to https://youtube.com/@survivaljoe.
 
-## [2026-04-17] update | AlanNotion channel, social, and store links
+## [2026-04-17] update | AlanNotion positioning and social strategy
 - Updated: entities/alannotion.md, wiki/index.md
-- Set AlanNotion's YouTube channel homepage, Twitter account, and Gumroad store URL.
+- Reframed AlanNotion around helping parents, dads, moms, and entrepreneurs buy back time with templates; added YouTube, X, and future Instagram strategy notes.
+
+## [2026-04-17] update | Channel subscriber snapshots
+- Updated: entities/grunfworks.md, entities/survivaljoe.md, entities/alannotion.md
+- Added 2026-04-17 subscriber counts to the three YouTube channel pages.
+
+## [2026-04-17] update | Subscriber history sections
+- Updated: entities/grunfworks.md, entities/survivaljoe.md, entities/alannotion.md
+- Renamed subscriber snapshots to subscriber history and noted a 10-entry maximum for future tracking.
+
+## [2026-04-17] update | YouTube Operator Academy channel homepage
+- Updated: entities/youtube-operator-academy.md, wiki/index.md
+- Set the YouTube Operator Academy channel homepage to https://youtube.com/@youtubeoperatoracademy.
+
+## [2026-04-17] update | YouTube Operator Academy subscriber history
+- Updated: entities/youtube-operator-academy.md, wiki/index.md
+- Added the latest subscriber snapshot: 2026-04-17 — 3 subscribers.
 
 ## [2026-04-17] update | AlanNotion store catalog
 - Updated: entities/alannotion.md

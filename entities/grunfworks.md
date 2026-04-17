@@ -17,6 +17,10 @@ GrunfWorks is Alan Graf's long-term gaming creator brand. Productivity is a supp
 
 Channel homepage: https://youtube.com/@grunfworks
 
+## Subscriber history
+Keep the latest 10 snapshots only.
+- 2026-04-17 — 14,900 subscribers
+
 ## Core niche
 - Space games
 - Engineering and simulation
