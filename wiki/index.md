@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-18 | Total pages: 10
+> Last updated: 2026-04-18 | Total pages: 11
 
 ## Companies
 - [[alannotion]] — Notion template business focused on helping parents, dads, moms, and entrepreneurs buy back time. Channel homepage: https://youtube.com/@alannotion. Twitter: https://x.com/alannotion. Instagram: https://www.instagram.com/alannotion. Store: https://alannotion.gumroad.com/.
@@ -26,6 +26,7 @@
 - [[youtube-operator-academy-knowledge-base]] — Tactical framework for ideas, titles, thumbnails, and hooks.
 - [[youtube-operator-academy-master-prompt]] — Strategic assistant prompt for the Academy.
 - [[youtube-operator-academy-marketing-strategist]] — Specialized prompt for promotion, visibility, and conversion.
+- [[youtube-content-agent]] — Reusable prompt template for researching and drafting YouTube content.
 
 ## Comparisons
 
