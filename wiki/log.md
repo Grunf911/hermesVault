@@ -84,6 +84,10 @@
 - Updated: entities/youtube-operator-academy.md, wiki/index.md
 - Added the latest subscriber snapshot: 2026-04-17 — 3 subscribers.
 
+## [2026-04-18] update | YouTube Operator Academy main homepage
+- Updated: entities/youtube-operator-academy.md, wiki/index.md, wiki/log.md
+- Set the main about/join page to https://www.skool.com/youtube-academy-7758/about.
+
 ## [2026-04-17] update | AlanNotion store catalog
 - Updated: entities/alannotion.md
 - Added a store catalog split into free lead magnets and paid products, with a note that free items can be used in promotion.

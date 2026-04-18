@@ -1,12 +1,12 @@
 ---
 title: YouTube Operator Academy
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 type: company
 tags: [business, company, project, marketing, education, strategy, note]
 sources: []
 contradictions: []
-homepage: https://youtube.com/@youtubeoperatoracademy
+homepage: https://www.skool.com/youtube-academy-7758/about
 ---
 
 # YouTube Operator Academy
@@ -14,6 +14,7 @@ homepage: https://youtube.com/@youtubeoperatoracademy
 ## Overview
 YouTube Operator Academy is a paid Skool community that helps creators grow on YouTube without burnout.
 
+Main homepage / about / join: https://www.skool.com/youtube-academy-7758/about
 Channel homepage: https://youtube.com/@youtubeoperatoracademy
 
 ## Subscriber history
