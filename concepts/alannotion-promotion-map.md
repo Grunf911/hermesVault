@@ -1,7 +1,7 @@
 ---
 title: AlanNotion Promotion Map
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-20
 type: concept
 tags: [business, marketing, sales, strategy, note]
 sources:
@@ -32,6 +32,7 @@ Best fits:
 Why:
 - These leads already attract the exact audience who cares about YouTube systems, packaging, and execution.
 - They naturally build belief in the broader YouTube operator ecosystem.
+- YouTube Operator is the direct paid workspace for creators who want the full production pipeline, while YouTube Operator Academy remains the broader learning layer.
 
 ### Productivity lead magnets → Productivity paid offers
 Best fits:

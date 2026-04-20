@@ -1,7 +1,7 @@
 ---
 title: AlanNotion
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-20
 type: company
 tags: [business, company, project, product, marketing, sales, strategy]
 sources: []
@@ -54,6 +54,7 @@ Keep the latest 10 snapshots only.
 - Job Seeker - Application Tracker
 
 ### Paid products
+- YouTube Operator — $25
 - Goals Projects & Tasks — $15
 - Automated Sales OS — $15
 - Job Seeker Dashboard - Application & Goal Tracker — $15

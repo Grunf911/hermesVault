@@ -21,10 +21,11 @@ Pick one paid product, pair it with the best matching free lead magnet, and reus
 
 ### 1) Pick the weekly paid product
 Choose one paid offer to focus on this week:
-- Goals Projects & Tasks
-- Automated Sales OS
-- Job Seeker Dashboard - Application & Goal Tracker
-- Or another paid AlanNotion product
+  - Goals Projects & Tasks
+  - Automated Sales OS
+  - Job Seeker Dashboard - Application & Goal Tracker
+  - YouTube Operator
+  - Or another paid AlanNotion product
 
 ### 2) Pick the matching free lead magnet
 Choose the free item that best supports the paid offer.
@@ -32,7 +33,7 @@ Examples:
 - Goals Projects & Tasks → Simple Projects & Tasks Tracker or Ultimate Coffee & Habit Tracker
 - Automated Sales OS → Sales Tracker
 - Job Seeker Dashboard → Simple CV or Job Seeker - Application Tracker
-- YouTube-focused offers → YouTube Thumbnail Master Class, YouTube Title Master Class, YouTube Video Idea Master Class, or related checklists
+- YouTube-focused offers → YouTube Thumbnail Master Class, YouTube Title Master Class, YouTube Video Idea Master Class, or related checklists that point into YouTube Operator
 
 ### 3) Draft one core message
 Write one main idea for the week:

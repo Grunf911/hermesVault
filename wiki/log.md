@@ -93,6 +93,10 @@
 - Updated: wiki/index.md, wiki/log.md
 - Added a reusable prompt template for researching and drafting YouTube content without publishing.
 
+## [2026-04-20] update | AlanNotion YouTube Operator product
+- Updated: entities/alannotion.md, concepts/alannotion-promotion-map.md, concepts/alannotion-weekly-execution-checklist.md, wiki/index.md, wiki/log.md
+- Added YouTube Operator as a paid AlanNotion product and updated the promotion map so the YouTube lead magnets point to the new paid offer.
+
 ## [2026-04-17] update | AlanNotion store catalog
 - Updated: entities/alannotion.md
 - Added a store catalog split into free lead magnets and paid products, with a note that free items can be used in promotion.
