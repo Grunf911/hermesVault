@@ -64,3 +64,9 @@ FINAL TAKEAWAY
 - Best visible progression markers from the transcript: the sailor backpack and the fast travel bell.
 - The episode arc is really materials -> storage -> travel -> exploration -> danger.
 - This pass adds a fuller transcript-driven angle so the packaging matches the actual episode more closely.
+
+## Correction pass (callouts only)
+- Restored the workflow to a non-destructive approach: existing page text was left in place.
+- Added callouts for title proposals, thumbnail concept, one-line video idea, hook, and description.
+- The page update was driven by the Video Premise and the attached VideoTranscript, plus the existing journal context.
+- The intent is to avoid duplicate prose blocks and keep the extracted packaging notes isolated in callouts.
