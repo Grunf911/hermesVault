@@ -70,3 +70,9 @@ FINAL TAKEAWAY
 - Added callouts for title proposals, thumbnail concept, one-line video idea, hook, and description.
 - The page update was driven by the Video Premise and the attached VideoTranscript, plus the existing journal context.
 - The intent is to avoid duplicate prose blocks and keep the extracted packaging notes isolated in callouts.
+
+## Correction pass (existing callouts only)
+- Re-read the Journal, Video Premise, and attached VideoTranscript before making the final correction.
+- Removed the duplicate top-level callouts from the previous attempt.
+- Filled the existing toggle callouts and blank fields already present in the page instead of rewriting the section headers.
+- The page now keeps the original structure intact while only adding the transcript-derived title, thumbnail, idea, hook, description, and note text where the template expected them.
