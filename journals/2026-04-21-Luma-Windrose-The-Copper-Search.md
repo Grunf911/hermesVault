@@ -86,3 +86,8 @@ FINAL TAKEAWAY
 - Refined the packaging with the YouTube Operator Academy framing and the page checklists as the fallback rubric.
 - Tightened the title proposals toward clearer, higher-click options.
 - Updated the thumbnail, hook, description, and idea language to better match the transcript's progression arc.
+
+## Title refinement pass
+- Tightened the title proposals to be more click-forward and less descriptive.
+- Focused the hook and description on the strongest transcript beats instead of trying to summarize every beat.
+- The best packaging now centers on the fast travel bell and the ruins shift.
