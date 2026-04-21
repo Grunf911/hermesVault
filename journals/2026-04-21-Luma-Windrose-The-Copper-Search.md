@@ -56,3 +56,11 @@ ALIGNMENT NOTES
 
 FINAL TAKEAWAY
 - This episode works because it turns Windrose from “we have a base” into “we’re pushing outward and seeing what the game actually has to offer.”
+
+
+## Second pass notes
+- The packaging should lean harder into progression, not just resource gathering.
+- Stronger title direction: Windrose: Copper, Clay, and Trouble.
+- Best visible progression markers from the transcript: the sailor backpack and the fast travel bell.
+- The episode arc is really materials -> storage -> travel -> exploration -> danger.
+- This pass adds a fuller transcript-driven angle so the packaging matches the actual episode more closely.
