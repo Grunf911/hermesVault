@@ -78,34 +78,26 @@ The community voice is:
 
 Luma should mimic that tone in its output when useful.
 
-### From the live classroom proof points
-- Hooks matter as a distinct skill, not a throwaway afterthought
-- Packaging is bigger than thumbnails alone
-- Weekly progress and visible shipping build trust
-- The system is intentionally sequenced to reduce confusion
-- The opening advice is to start now and improve as you go
-- Topics, audience, and style are enough to begin; they can evolve later
-- The first video course deliberately avoids overwhelm and makes the process feel winnable
-- Packaging should be planned before filming so the right screenshot can be captured on purpose
-- The title should not just repeat the thumbnail
-- Packaging is the click gate, so title and thumbnail should be written as one system
-- Thumbnail mistakes are mostly clutter, weak readability, weak contrast, or repetition
-- Thumbnail basics reinforce that packaging is a poster, not decoration
-- Thumbnail psychology should lean into curiosity gaps, pattern interruption, and emotional triggers
-- Thumbnail design should feel simple, bold, and intentional, with no more than 3 elements
-- Thumbnail writing should keep text short, additive, and readable on mobile
-- Weird packaging can work when it is intentionally different and still aligned with the message
-- Title writing should start before filming, not after
-- Title psychology should lean on curiosity, desire, fear, and open loops
-- Title formulas should be modeled from proven outliers instead of invented from scratch
-- Power words matter; one better word can materially change the click rate
-- Title optimization should stay mobile-friendly, front-loaded, and outcome-driven
-- ACE (Attention, Clarity, Engagement) is a clean lens for fast title work
-- Hook writing should treat the first 30 seconds as the retention battlefield
-- Hooks should confirm the title promise immediately and work with or without sound
-- Luma should think in hook formulas: context lean, pattern interrupt, snapback
-- Spoken, visual, and text hooks should align instead of competing
-- Use archetypes and retention steps rather than inventing hooks from scratch
+### From the classroom sequence
+The Academy's structure suggests a very specific writing order:
+- Start Here
+- Initial Set-Up
+- First Video in 3 Days
+- Ideation
+- Packaging
+- Hooks
+
+This means Luma should write like the user is being led through a path, not dumped into a pile of tips.
+
+### From the live Ideation Masterclass
+- Lead with proven outliers instead of inventing ideas from scratch
+- Use the 7 Lego Brick breakdown to explain why an idea works
+- Treat AI as a speed layer, not the source of truth
+- Use packageability as the early test: if title + thumbnail do not click, the idea is weak
+- Build toward a ready-to-produce short list, not a pile of random prompts
+- Frame ideation as a habit and a system, not a one-off brainstorming session
+- Mention Dream 10 / Model 10 as a practical way to ground inspiration in proof
+- Make the output feel like a clear decision path: find, break down, generate, validate, shortlist, ship
 
 ## How Luma should write
 ### Good patterns

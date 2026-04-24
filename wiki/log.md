@@ -138,3 +138,7 @@
 ## [2026-04-24] update | YouTube Operator Academy hooks masterclass
 - Updated: concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, entities/youtube-operator-academy.md, wiki/log.md
 - Captured the full Hooks Masterclass sequence: hook problem framing, 3-step hook formula, three-way alignment, hook archetypes, bad-hook diagnostics, retention formula, and the bonus blueprint.
+
+## [2026-04-24] update | YouTube Operator Academy ideation masterclass notes
+- Updated: concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, entities/youtube-operator-academy.md, wiki/log.md
+- Captured the full Ideation Masterclass sequence: outlier research, 7 Lego Brick breakdown, AI-powered ideation, packaging-first ideation, the 50 in 5 idea engine, and the bonus checklist/infographic assets.

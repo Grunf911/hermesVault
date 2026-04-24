@@ -59,6 +59,24 @@ Break winning videos into:
 - Vlogs
 - Interviews
 
+### Live Ideation Masterclass sequence
+- 1. Finding Gold in Your Niche — the Outlier Method
+- 2. The Idea Breakdown System — the 7 Lego Brick Method
+- 3. AI-Powered Idea Generation — prompt + remix workflow
+- 4. The Packaging-First Ideation Method — packageability before production
+- 5. Building Your Idea Engine — daily habit, Dream 10, Model 10, and validation
+
+### Ideation doctrine from the live classroom
+- Outliers are videos that outperform channel average by 3-10x; 5x is a strong confidence bar
+- Small-channel outliers under 100K subscribers are especially valuable because they prove the idea, not just the audience size
+- The 7 idea bricks are Topic, Angle, Hook Structure, Story Structure, Visual Format, Key Visuals, and Audio
+- Break down winning videos by brick, then keep the strong bricks and remix the weak ones
+- AI is a multiplier, not a replacement: it can generate volume, analyze transcripts, and remix formats, but human judgment still validates the idea
+- Packaging-first ideation means title + thumbnail must feel clickable before filming; if they do not, scrap the idea early
+- The idea engine is built by daily repetition: 10 ideas a day, a validated short list, and Dream 10 / Model 10 research loops
+- The end goal is to never stare at a blank screen again because a ready-to-produce queue already exists
+- Useful tools/assets from the course include the free Video Ideation Checklist and the Creator's Video Idea Blueprint infographic
+
 ## Title system
 ### Three click-worthy emotions
 - Curiosity
