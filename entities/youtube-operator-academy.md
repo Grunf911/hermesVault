@@ -70,6 +70,9 @@ Keep the latest 10 snapshots only.
 ## Community operations
 - [[youtube-operator-academy-community-manager]] — Weekly newsletter and community manager playbook based on live access
 
+## Luma writing style
+- [[youtube-operator-academy-luma-style]] — Classroom-derived style and angle overlay for Luma's writing, not workflow routing
+
 ## Related pages
 - [[business-portfolio]]
 - [[alannotion]]
