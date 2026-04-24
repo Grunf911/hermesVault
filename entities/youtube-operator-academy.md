@@ -28,6 +28,11 @@ Channel homepage: https://youtube.com/@youtubeoperatoracademy
   - Packaging Masterclass — titles and thumbnails
   - Hooks Masterclass — creating engaging hooks that keep viewers watching
   - Tools & Resources Library — locked until Level 2
+- The live classroom expansion shows a strong onboarding sequence:
+  - Start Here → Initial Set-Up → First Video in 3 Days
+  - beginner FAQ and community rules are visible from the end of Start Here
+  - level 2 requires 5 points from posting, commenting, and replying
+  - the first-video path is deliberately simplified to reduce overwhelm
 - Visible community structure:
   - All, General, 📣 Updates, 🏆 Wins, 💎 Gems, ❓ Questions, 👋 Introductions, 📋 Assets, More...
 - Onboarding prompts visible on the community page:

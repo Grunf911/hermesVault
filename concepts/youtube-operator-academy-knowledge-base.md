@@ -195,6 +195,40 @@ Observed in the live Skool classroom during VIP browser access:
 - Current proof points include the Hooks Masterclass going live and the "Your First Video in 3 Days" course being completed.
 - Empty classroom sections are still under construction, so the note should be treated as a living map rather than a finished syllabus.
 
+## Live classroom expansion
+### 00 - 🚀 Start Here
+- Welcome → level system → tabs → calendar/live calls → roadmap → do this next.
+- The end-of-module guidance tells new members to introduce themselves, ask questions in Questions, read the beginner FAQ, and then choose their next step based on their current state.
+- Level 2 requires 5 points from posting, commenting, and replying.
+- The beginner FAQ reinforces the Academy's core operating logic:
+  - focus on one niche, not one format
+  - stay in a niche for 10–20 videos or about 3 months
+  - prioritize audio quality early
+  - publish weekly if possible
+  - do not wait for perfection; improve by publishing
+  - generate ideas from experience, comments, questions, and community discussions
+
+### 01 - 🛠️🪛 Initial Set-Up
+- The opening lesson's strongest advice is: "Just start with it and improve as you go."
+- Topic selection should start from genuine interest, because you will quit before you get good if you dislike the topic.
+- Audience definition starts as a best-guess of people like you, then narrows to a simple sentence about who the channel helps.
+- Unique style should feel natural: calm, funny, analytical, storytelling, or high-energy — whatever is easiest to record consistently.
+- Handle setup should be simple, memorable, and available.
+- Branding should be clean and low-clutter: clear icon, channel banner, 2–3 colors, and hex codes stored somewhere reusable.
+- Settings guidance emphasizes YouTube Studio setup, channel verification, comments on, and upload defaults set to unlisted while iterating.
+- Equipment guidance prioritizes a decent microphone, OBS for recording, and simple editing only if needed later.
+- Recording space guidance emphasizes starting with what you already have, then improving the setup over time.
+- The module checklist ends with: topic focus, audience, style, channel, branding, tools, and recording space prepared.
+
+### 02 - 🎥 Your First Video in 3 Days
+- The course simplifies the first upload into three days: ideate/package, record, then upload/publish.
+- The preface is explicit that the course assumes a total beginner and intentionally oversimplifies to prevent overwhelm.
+- Day 1 requires defining topic/game, video type, angle, tone & style, then packaging the result as one coherent plan.
+- Packaging is taught as title + thumbnail + hook working together; the thumbnail should be planned before filming so the right screenshot can be captured on purpose.
+- Day 1 warns not to repeat the thumbnail in the title.
+- Day 2 is framed as recording and not editing: get the video recorded first, then refine later.
+- Day 3 is about uploading and publishing without stalling.
+
 ## Use in the wiki
 This framework is the tactical content engine for YouTube Operator Academy.
 

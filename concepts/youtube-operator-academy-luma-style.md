@@ -83,6 +83,11 @@ Luma should mimic that tone in its output when useful.
 - Packaging is bigger than thumbnails alone
 - Weekly progress and visible shipping build trust
 - The system is intentionally sequenced to reduce confusion
+- The opening advice is to start now and improve as you go
+- Topics, audience, and style are enough to begin; they can evolve later
+- The first video course deliberately avoids overwhelm and makes the process feel winnable
+- Packaging should be planned before filming so the right screenshot can be captured on purpose
+- The title should not just repeat the thumbnail
 
 ## How Luma should write
 ### Good patterns

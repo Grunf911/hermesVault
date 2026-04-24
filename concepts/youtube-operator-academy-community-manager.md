@@ -25,6 +25,7 @@ Use this page for:
 - VIP user access is confirmed in a logged-in browser session.
 - The classroom is still being built; some sections remain empty or in progress.
 - The community is private and currently visible with a small member count.
+- The end of Start Here makes the member path explicit: introduce yourself, use Questions for help, and avoid sharing a channel URL anywhere except the Introduce Yourself post.
 
 ## Community structure visible in Skool
 ### Navigation
@@ -51,6 +52,11 @@ Use this page for:
 - Watch 60 sec intro video
 - Find a post you like and leave a comment
 - Download app
+
+### Level system snapshot
+- Level 2 requires 5 points.
+- Points come from posting, commenting, and replying.
+- The system rewards visible participation rather than lurking.
 
 ## Classroom snapshot
 Visible classroom modules at the time of capture:

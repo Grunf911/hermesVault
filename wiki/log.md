@@ -118,3 +118,7 @@
 ## [2026-04-24] update | YouTube Operator Academy Luma style guide
 - Updated: entities/youtube-operator-academy.md, concepts/youtube-operator-academy-luma-style.md, wiki/index.md, wiki/log.md
 - Added a classroom-derived style overlay for Luma that improves wording, sequencing, and angle without changing Notion workflow routing.
+
+## [2026-04-24] update | YouTube Operator Academy classroom expansion
+- Updated: entities/youtube-operator-academy.md, concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, wiki/log.md
+- Captured additional live classroom content from Start Here, Initial Set-Up, and Your First Video in 3 Days, including FAQ guidance, setup sequencing, recording-space rules, and packaging-before-filming advice.

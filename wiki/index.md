@@ -8,7 +8,7 @@
 - [[alannotion]] — Notion template business focused on helping parents, dads, moms, and entrepreneurs buy back time. Channel homepage: https://youtube.com/@alannotion. Twitter: https://x.com/alannotion. Instagram: https://www.instagram.com/alannotion. Store: https://alannotion.gumroad.com/. Paid products now include YouTube Operator.
 - [[grunfworks]] — YouTube gaming channel focused on space games let's plays. Homepage: https://youtube.com/@grunfworks.
 - [[survivaljoe]] — YouTube survival games channel with tips, reviews, and let's plays. Homepage: https://youtube.com/@survivaljoe.
-- [[youtube-operator-academy]] — Skool community for growing on YouTube without overwhelm. Main homepage: https://www.skool.com/youtube-academy-7758/about. Channel homepage: https://youtube.com/@youtubeoperatoracademy. Subscriber history: 2026-04-17 — 3 subscribers.
+- [[youtube-operator-academy]] — Skool community for growing on YouTube without overwhelm. Main homepage: https://www.skool.com/youtube-academy-7758/about. Channel homepage: https://youtube.com/@youtubeoperatoracademy. Subscriber history: 2026-04-17 — 3 subscribers. Live classroom notes now cover Start Here, Initial Set-Up, and the first-video path.
 
 ## Projects
 
