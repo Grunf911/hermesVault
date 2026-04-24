@@ -229,6 +229,35 @@ Observed in the live Skool classroom during VIP browser access:
 - Day 2 is framed as recording and not editing: get the video recorded first, then refine later.
 - Day 3 is about uploading and publishing without stalling.
 
+## Packaging masterclass live notes
+### Why Do Awesome Videos Get No Views?
+- Amazing content with bad packaging gets zero views; average content with great packaging gets millions.
+- Packaging is the poster; the video is the movie.
+- YouTube can only promote videos people actually click.
+- The platform reality is CTR-driven; thumbnails and titles are the gatekeeper.
+- The creator mindset should be: design packaging first, then make content to match it.
+- Packaging deserves real time investment, not a last-minute pass.
+
+### Title & Thumbnail - YouTube's dynamic duo
+- Title and thumbnail are one system, not two separate tasks.
+- Viewers usually see thumbnail first, then title, then thumbnail again for validation.
+- The thumbnail should say one thing and the title should complement it with the why/how.
+- Repetition kills curiosity; the title should not just restate the thumbnail.
+- Strong packaging pairs emotion in the image with logic in the words.
+- Design and test title + thumbnail combinations together.
+
+### Common Thumbnail Mistakes
+- Too many elements.
+- Text that is too small for mobile.
+- Using an unknown face when a clearer visual would work better.
+- Copying competitors instead of interrupting the pattern.
+- Important elements in the bottom-right timestamp area.
+- Dull, unsaturated colors.
+- Repeating the title instead of adding new information.
+- Not testing small-size readability.
+- Clickbait mismatch.
+- Building the thumbnail last instead of first.
+
 ## Use in the wiki
 This framework is the tactical content engine for YouTube Operator Academy.
 

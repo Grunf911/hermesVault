@@ -122,3 +122,7 @@
 ## [2026-04-24] update | YouTube Operator Academy classroom expansion
 - Updated: entities/youtube-operator-academy.md, concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, wiki/log.md
 - Captured additional live classroom content from Start Here, Initial Set-Up, and Your First Video in 3 Days, including FAQ guidance, setup sequencing, recording-space rules, and packaging-before-filming advice.
+
+## [2026-04-24] update | YouTube Operator Academy packaging masterclass notes
+- Updated: concepts/youtube-operator-academy-knowledge-base.md, wiki/log.md
+- Captured the first packaging lessons: packaging as the click gate, title + thumbnail as one system, and the most common thumbnail mistakes.

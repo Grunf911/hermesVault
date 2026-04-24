@@ -33,6 +33,10 @@ Channel homepage: https://youtube.com/@youtubeoperatoracademy
   - beginner FAQ and community rules are visible from the end of Start Here
   - level 2 requires 5 points from posting, commenting, and replying
   - the first-video path is deliberately simplified to reduce overwhelm
+- Packaging Masterclass adds a clear packaging doctrine:
+  - packaging is the click gate
+  - title and thumbnail are one system
+  - common thumbnail mistakes are mostly clutter, unreadability, weak contrast, and repetition
 - Visible community structure:
   - All, General, 📣 Updates, 🏆 Wins, 💎 Gems, ❓ Questions, 👋 Introductions, 📋 Assets, More...
 - Onboarding prompts visible on the community page:

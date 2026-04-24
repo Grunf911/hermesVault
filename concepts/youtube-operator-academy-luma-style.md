@@ -88,6 +88,8 @@ Luma should mimic that tone in its output when useful.
 - The first video course deliberately avoids overwhelm and makes the process feel winnable
 - Packaging should be planned before filming so the right screenshot can be captured on purpose
 - The title should not just repeat the thumbnail
+- Packaging is the click gate, so title and thumbnail should be written as one system
+- Thumbnail mistakes are mostly clutter, weak readability, weak contrast, or repetition
 
 ## How Luma should write
 ### Good patterns
