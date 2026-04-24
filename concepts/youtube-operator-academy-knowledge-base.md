@@ -343,6 +343,57 @@ Observed in the live Skool classroom during VIP browser access:
 #### Bonus infographic
 - The bonus asset is a downloadable summary of the title lessons for visual learners.
 
+### Hooks Masterclass
+#### Series order and learning path
+- The course is organized from why hooks matter, to a 3-step hook formula, to alignment, archetypes, mistakes, retention, and a bonus blueprint.
+- The stated pain point is that creators lose viewers in the first 30 seconds and waste time on hooks that do not retain attention.
+
+#### 1. Why Hooks Are Killing Your Channel
+- Average videos lose roughly 45-50% of viewers in the first 30 seconds.
+- Hooks are the single most important part of the video because they determine whether viewers reach the content.
+- The hook should confirm the title/thumbnail promise immediately.
+- Hooks need to work with sound and without sound.
+
+#### 2. The 3-Step Psychological Hook Formula
+- Step 1: Context Lean — establish what the video is about and lean viewers in with common ground, benefit, pain point, metaphor, or fact.
+- Step 2: Scroll Stop Interjection — use contrast words like but, however, or yet to create tension.
+- Step 3: Contrarian Snapback — flip expectations in a bigger, more surprising direction.
+- The formula works because it opens a curiosity loop the brain wants to close.
+
+#### 3. The Three-Way Alignment Rule
+- Spoken hook, visual hook, and text hook must align.
+- Viewers process visuals first, audio second, then visually validate what they heard.
+- Misalignment creates confusion, and confusion causes drop-off.
+- The key visual should be chosen first, then the spoken hook should support it.
+
+#### 4. The 6 Hook Archetypes That Always Work
+- Curiosity
+- Storytelling
+- Challenge
+- Negative
+- Comparison
+- Visual
+- Never invent hooks from scratch when an archetype fits better.
+
+#### 5. The 4 Horsemen of Bad Hooks
+- Delay: wait too long to say what the video is about.
+- Confusion: use unclear, complex, or misaligned information.
+- Irrelevance: fail to make the viewer feel the video is for them.
+- Disinterest: do not create enough curiosity or contrast.
+- Fixing these four issues improves retention fast.
+
+#### 6. The 5-Step Retention Formula
+- Interest Spark
+- Pattern Interrupt
+- Twist & Value
+- Credibility
+- Compression
+- The hook-deliver cycle should continue throughout the video with mini-hooks and renewed open loops.
+
+#### Bonus blueprint
+- The bonus asset is a downloadable infographic that summarizes the hook system for visual learners.
+- Hooks are framed as a system that moves creators from losing half their viewers to keeping most of them watching.
+
 ## Use in the wiki
 This framework is the tactical content engine for YouTube Operator Academy.
 

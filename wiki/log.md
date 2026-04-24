@@ -134,3 +134,7 @@
 ## [2026-04-24] update | YouTube Operator Academy title master class
 - Updated: concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, entities/youtube-operator-academy.md, wiki/log.md
 - Captured the full Title Master Class sequence: title basics, title psychology, frameworks, power words, optimization/testing, ACE, and the bonus infographic.
+
+## [2026-04-24] update | YouTube Operator Academy hooks masterclass
+- Updated: concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, entities/youtube-operator-academy.md, wiki/log.md
+- Captured the full Hooks Masterclass sequence: hook problem framing, 3-step hook formula, three-way alignment, hook archetypes, bad-hook diagnostics, retention formula, and the bonus blueprint.

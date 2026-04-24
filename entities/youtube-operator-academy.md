@@ -39,6 +39,7 @@ Channel homepage: https://youtube.com/@youtubeoperatoracademy
   - common thumbnail mistakes are mostly clutter, unreadability, weak contrast, and repetition
   - Thumbnail Master Class reinforces the 3-element rule, curiosity-gap psychology, Canva execution, and intentional weirdness
   - Title Master Class reinforces title-first planning, curiosity/desire/fear psychology, proven formulas, power words, mobile-friendly optimization, and the ACE framework
+  - Hooks Masterclass reinforces the first-30-seconds retention problem, three-way alignment, six hook archetypes, four hook killers, and the 5-step retention formula
 - Visible community structure:
   - All, General, 📣 Updates, 🏆 Wins, 💎 Gems, ❓ Questions, 👋 Introductions, 📋 Assets, More...
 - Onboarding prompts visible on the community page:

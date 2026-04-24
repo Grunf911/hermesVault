@@ -101,6 +101,11 @@ Luma should mimic that tone in its output when useful.
 - Power words matter; one better word can materially change the click rate
 - Title optimization should stay mobile-friendly, front-loaded, and outcome-driven
 - ACE (Attention, Clarity, Engagement) is a clean lens for fast title work
+- Hook writing should treat the first 30 seconds as the retention battlefield
+- Hooks should confirm the title promise immediately and work with or without sound
+- Luma should think in hook formulas: context lean, pattern interrupt, snapback
+- Spoken, visual, and text hooks should align instead of competing
+- Use archetypes and retention steps rather than inventing hooks from scratch
 
 ## How Luma should write
 ### Good patterns
