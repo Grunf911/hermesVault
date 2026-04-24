@@ -1,7 +1,7 @@
 ---
 title: YouTube Creator Master Framework
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-24
 type: concept
 tags: [business, education, marketing, strategy, product, note]
 sources:
@@ -178,6 +178,22 @@ The document’s checklists can be used as pre-publish gates for:
 4. Design a thumbnail with contrast and one clear focal point
 5. Write a hook that matches title and thumbnail
 6. Run the checklists before filming or publishing
+
+## Live classroom snapshot
+Observed in the live Skool classroom during VIP browser access:
+- 00 - 🚀 Start Here — Overview, Introduction, How-to-Use & Next Steps
+- 01 - 🛠️🪛 Initial Set-Up — YouTube channel and home recording studio setup
+- 02 - 🎥 Your First Video in 3 Days — publish the first video
+- Ideation Masterclass — how to come up with great video ideas
+- Packaging Masterclass — titles and thumbnails
+- Hooks Masterclass — creating engaging hooks that keep viewers watching
+- Tools & Resources Library — locked until Level 2
+
+## Live community signals
+- The community uses an onboarding loop: watch intro video, comment on a post, download the app, then start in the classroom.
+- Weekly newsletter posts are used to report classroom progress and announce what shipped.
+- Current proof points include the Hooks Masterclass going live and the "Your First Video in 3 Days" course being completed.
+- Empty classroom sections are still under construction, so the note should be treated as a living map rather than a finished syllabus.
 
 ## Use in the wiki
 This framework is the tactical content engine for YouTube Operator Academy.

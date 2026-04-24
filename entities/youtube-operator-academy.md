@@ -1,7 +1,7 @@
 ---
 title: YouTube Operator Academy
 created: 2026-04-17
-updated: 2026-04-18
+updated: 2026-04-24
 type: company
 tags: [business, company, project, marketing, education, strategy, note]
 sources: []
@@ -16,6 +16,24 @@ YouTube Operator Academy is a paid Skool community that helps creators grow on Y
 
 Main homepage / about / join: https://www.skool.com/youtube-academy-7758/about
 Channel homepage: https://youtube.com/@youtubeoperatoracademy
+
+## Live access notes
+- VIP user access confirmed in a logged-in browser session.
+- The classroom is still being built; some sections remain empty or in progress.
+- Visible classroom modules:
+  - 00 - 🚀 Start Here — Overview, Introduction, How-to-Use & Next Steps
+  - 01 - 🛠️🪛 Initial Set-Up — YouTube channel and home recording studio setup
+  - 02 - 🎥 Your First Video in 3 Days — publish the first video
+  - Ideation Masterclass — how to come up with great video ideas
+  - Packaging Masterclass — titles and thumbnails
+  - Hooks Masterclass — creating engaging hooks that keep viewers watching
+  - Tools & Resources Library — locked until Level 2
+- Visible community structure:
+  - All, General, 📣 Updates, 🏆 Wins, 💎 Gems, ❓ Questions, 👋 Introductions, 📋 Assets, More...
+- Onboarding prompts visible on the community page:
+  - Watch 60 sec intro video
+  - Find a post you like and leave a comment
+  - Download app
 
 ## Subscriber history
 Keep the latest 10 snapshots only.
@@ -48,6 +66,9 @@ Keep the latest 10 snapshots only.
 
 ## Marketing strategist
 - [[youtube-operator-academy-marketing-strategist]] — Specialized prompt for promotion, visibility, and conversion
+
+## Community operations
+- [[youtube-operator-academy-community-manager]] — Weekly newsletter and community manager playbook based on live access
 
 ## Related pages
 - [[business-portfolio]]

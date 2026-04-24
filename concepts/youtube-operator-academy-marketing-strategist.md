@@ -1,7 +1,7 @@
 ---
 title: YouTube Operator Academy Marketing Strategist
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-24
 type: concept
 tags: [business, marketing, strategy, sales, note]
 sources:
@@ -89,6 +89,13 @@ Also: X posts → profile → pinned post → YouTube playlist → Skool, and Di
 - Sustainable publishing
 - Habit building
 - Calm growth
+
+## Current proof points from live access
+- The live classroom currently shows a clear sequencing story: Start Here → Initial Set-Up → First Video in 3 Days → Ideation → Packaging → Hooks.
+- Hooks Masterclass is live, which is a strong social proof angle for posts about retention and watch-time.
+- The "Your First Video in 3 Days" course is completed, which is useful for beginner-facing marketing.
+- Weekly community newsletters document progress and can be repurposed into credibility-building updates.
+- The classroom is still partially under construction, so marketing should emphasize momentum, clarity, and in-progress execution rather than pretending everything is finished.
 
 ## Reusable positioning statements
 - Most small creators optimize the wrong thing.

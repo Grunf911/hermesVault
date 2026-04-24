@@ -93,10 +93,6 @@
 - Updated: wiki/index.md, wiki/log.md
 - Added a reusable prompt template for researching and drafting YouTube content without publishing.
 
-## [2026-04-20] update | AlanNotion YouTube Operator product
-- Updated: entities/alannotion.md, concepts/alannotion-promotion-map.md, concepts/alannotion-weekly-execution-checklist.md, wiki/index.md, wiki/log.md
-- Added YouTube Operator as a paid AlanNotion product and updated the promotion map so the YouTube lead magnets point to the new paid offer.
-
 ## [2026-04-17] update | AlanNotion store catalog
 - Updated: entities/alannotion.md
 - Added a store catalog split into free lead magnets and paid products, with a note that free items can be used in promotion.
@@ -110,3 +106,7 @@
 - Created: concepts/alannotion-weekly-execution-checklist.md
 - Updated: entities/alannotion.md, wiki/index.md
 - Added a weekly checklist covering product selection, lead magnet matching, drafting, approval, publishing, and logging results to the daily journal.
+
+## [2026-04-24] update | YouTube Operator Academy live access notes
+- Updated: entities/youtube-operator-academy.md, concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-marketing-strategist.md, concepts/youtube-operator-academy-community-manager.md, wiki/index.md, wiki/log.md
+- Captured the live classroom snapshot, community navigation, onboarding prompts, weekly newsletter cadence, and marketing proof points from the authenticated browser session.
