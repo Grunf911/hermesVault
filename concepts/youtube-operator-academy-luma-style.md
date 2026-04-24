@@ -90,6 +90,11 @@ Luma should mimic that tone in its output when useful.
 - The title should not just repeat the thumbnail
 - Packaging is the click gate, so title and thumbnail should be written as one system
 - Thumbnail mistakes are mostly clutter, weak readability, weak contrast, or repetition
+- Thumbnail basics reinforce that packaging is a poster, not decoration
+- Thumbnail psychology should lean into curiosity gaps, pattern interruption, and emotional triggers
+- Thumbnail design should feel simple, bold, and intentional, with no more than 3 elements
+- Thumbnail writing should keep text short, additive, and readable on mobile
+- Weird packaging can work when it is intentionally different and still aligned with the message
 
 ## How Luma should write
 ### Good patterns

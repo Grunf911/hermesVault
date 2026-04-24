@@ -126,3 +126,7 @@
 ## [2026-04-24] update | YouTube Operator Academy packaging masterclass notes
 - Updated: concepts/youtube-operator-academy-knowledge-base.md, wiki/log.md
 - Captured the first packaging lessons: packaging as the click gate, title + thumbnail as one system, and the most common thumbnail mistakes.
+
+## [2026-04-24] update | YouTube Operator Academy thumbnail master class
+- Updated: concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, entities/youtube-operator-academy.md, wiki/log.md
+- Captured the full Thumbnail Master Class sequence: thumbnail basics, thumbnail psychology, thumbnail design, Canva execution, and weird-thumbnails case studies.

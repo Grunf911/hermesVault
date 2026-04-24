@@ -258,6 +258,44 @@ Observed in the live Skool classroom during VIP browser access:
 - Clickbait mismatch.
 - Building the thumbnail last instead of first.
 
+### Thumbnail Master Class
+#### 1. Thumbnail Basics
+- Thumbnails are like movie posters: they sell the click before the video ever plays.
+- The 50/50 rule frames success as packaging plus content, not content alone.
+- Viewers decide in under 2 seconds while scrolling.
+- Most creators over-invest in the edit and under-invest in packaging.
+- Design the thumbnail before you make the video.
+
+#### 2. Thumbnail Psychology
+- The curiosity gap is the space between what viewers know and what they want to know.
+- Viewers often make the decision in a thumbnail -> title -> thumbnail loop.
+- Curiosity comes in multiple forms: moment, story, result, transformation, and novelty.
+- Pattern interruption matters because it stops the scroll.
+- Strong facial emotion is a reliable attention trigger.
+
+#### 3. Thumbnail Design
+- Keep it to 3 elements maximum: main character plus two supporting elements.
+- Use the 3 C's: Contents, Composition, Contrast.
+- Bright, saturated visuals beat dull visuals.
+- Thumbnail text should stay under 5 words and add new information instead of repeating the title.
+- The main subject should dominate the frame.
+
+#### 4. How to Design a Thumbnail in Canva
+- You do not need expensive software to make strong thumbnails.
+- Standard setup: 1280x720, RGB, clean canvas settings.
+- Canva's background remover can help create cleaner cutouts.
+- Use font size, shadows, outlines, and contrast to make text readable.
+- Export settings should favor YouTube-friendly formats and compression.
+- Check how the thumbnail looks on a phone before shipping it.
+- A/B testing and analytics tracking help refine what works.
+
+#### 5. Weird Thumbnails That Worked
+- Weird works when it intentionally interrupts patterns and creates curiosity.
+- Examples include grayscale-to-color contrast, text-only designs, minimalist outliers, unrelated attention grabbers, rough authenticity, optical illusions, strategic negative space, accidental-looking imperfection, retro styling, and other rule-breaking visuals.
+- The point is to be different on purpose, not bad by accident.
+- Weirdness must still support the video's message.
+- Novelty, authenticity, and rule-breaking can outperform polished sameness.
+
 ## Use in the wiki
 This framework is the tactical content engine for YouTube Operator Academy.
 
