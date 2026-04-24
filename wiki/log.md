@@ -146,3 +146,4 @@
 ## [2026-04-24] update | YouTube Operator Academy Luma workflow rule
 - Updated: concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, wiki/log.md
 - Clarified that lessons from the Title, Thumbnail, and Hooks masterclasses should be applied by default every time Luma runs its workflow, not treated as optional polish.
+- Clarified that the Ideation Masterclass is separate and should be used when Luma is specifically asked to generate new video ideas in a dedicated form.

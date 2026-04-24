@@ -200,6 +200,9 @@ The document’s checklists can be used as pre-publish gates for:
 ## Workflow rule for Luma
 Every Luma output should apply the Title, Thumbnail, and Hook masterclass lessons as part of the default workflow, not as optional extra polish.
 
+## Ideation rule for Luma
+The Ideation Masterclass should be used separately in the future when Luma is asked to generate new video ideas in a dedicated ideation form.
+
 ## Live classroom snapshot
 Observed in the live Skool classroom during VIP browser access:
 - 00 - 🚀 Start Here — Overview, Introduction, How-to-Use & Next Steps
