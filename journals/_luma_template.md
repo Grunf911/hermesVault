@@ -20,22 +20,36 @@ Timezone: Europe/Stockholm
 - <deliverable 2>
 - <deliverable 3>
 
-### Luma scale
-Use a 1-5 scale for each packaging element:
-- 1 = generic / weak / not ready
-- 2 = usable but broad
-- 3 = solid but still needs sharpening
-- 4 = strong / click-forward / ready to package
-- 5 = standout / best-available option
+### Course-based evaluation checklists
+Use the relevant course takeaways as the evaluation standard instead of a generic 1-5 packaging scale.
 
-Fill in the score for the final chosen package:
-- Idea score: <1-5>
-- Title score: <1-5>
-- Thumbnail score: <1-5>
-- Hook score: <1-5>
-- Description score: <1-5>
-- Overall package score: <1-5>
-- Decision: <keep / revise / package>
+#### Title evaluation checklist
+- Does the title lead with the strongest emotion, benefit, or curiosity angle?
+- Is it clear and front-loaded?
+- Is it concise and mobile-friendly?
+- Does it avoid generic filler words and unnecessary repetition?
+- Does it complement the thumbnail instead of repeating it?
+- Does it use a proven title formula or power words where helpful?
+
+#### Thumbnail evaluation checklist
+- Does the thumbnail stay simple with a maximum of 3 core elements?
+- Is the main subject obvious at a glance?
+- Is it readable on mobile?
+- Does it use strong contrast and clear composition?
+- Does it add new information instead of repeating the title?
+- Does it avoid the common mistakes from the Thumbnail Master Class?
+
+#### Hook evaluation checklist
+- Does the hook confirm the title and thumbnail promise immediately?
+- Do the spoken, visual, and text hooks align?
+- Does it avoid delay, confusion, irrelevance, and disinterest?
+- Does it use a strong hook archetype or pattern interrupt?
+- Does it move the viewer quickly into the video’s value?
+
+### Overall package verdict
+- Keep
+- Revise
+- Package
 
 ### Full output
 <Paste the complete output here. Keep it factual and task-specific.>
