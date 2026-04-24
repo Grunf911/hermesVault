@@ -108,5 +108,9 @@
 - Added a weekly checklist covering product selection, lead magnet matching, drafting, approval, publishing, and logging results to the daily journal.
 
 ## [2026-04-24] update | YouTube Operator Academy live access notes
-- Updated: entities/youtube-operator-academy.md, concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-marketing-strategist.md, concepts/youtube-operator-academy-community-manager.md, wiki/index.md, wiki/log.md
-- Captured the live classroom snapshot, community navigation, onboarding prompts, weekly newsletter cadence, and marketing proof points from the authenticated browser session.
+- Updated: entities/youtube-operator-academy.md, concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-community-manager.md, wiki/index.md, wiki/log.md
+- Captured the live classroom snapshot, community navigation, onboarding prompts, weekly newsletter cadence, and classroom proof points from the authenticated browser session.
+
+## [2026-04-24] update | YouTube Operator Academy marketing playbook
+- Updated: concepts/youtube-operator-academy-marketing-strategist.md, wiki/log.md
+- Added Theo's positioning, proof points, audience segments, content angles, CTA rules, weekly rhythm, and tone sample for marketing the Academy.

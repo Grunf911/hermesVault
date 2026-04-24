@@ -97,6 +97,72 @@ Also: X posts → profile → pinned post → YouTube playlist → Skool, and Di
 - Weekly community newsletters document progress and can be repurposed into credibility-building updates.
 - The classroom is still partially under construction, so marketing should emphasize momentum, clarity, and in-progress execution rather than pretending everything is finished.
 
+## Theo's marketing playbook
+### Core angle
+Market the Academy as the anti-overwhelm YouTube system for creators who want a clear next step, not more advice.
+
+### Primary promise
+"If YouTube feels noisy and confusing, the Academy gives you a sequence: what to do now, what to ignore, and how to keep improving without burnout."
+
+### Messaging pillars
+1. Clarity first — reduce decision fatigue
+2. Sequencing over hype — do the right thing in the right order
+3. Action over theory — ship, iterate, learn
+4. Packaging matters — ideas, titles, thumbnails, hooks work together
+5. Sustainable progress — no guru nonsense, no burnout pressure
+
+### Best audience segments to speak to
+- beginner creators who have not found a system yet
+- creators with 1–20 videos who feel stuck
+- hobby creators who want momentum without turning into full-time grinders
+- educational and gaming creators who need better ideas and better packaging
+
+### Content angles Theo should post
+- "You do not need more YouTube advice; you need order"
+- "Why most creators fail the sequence before they fail the content"
+- "The simplest path from idea to upload"
+- "Packaging is not thumbnails alone"
+- "What the first 3 modules solve"
+- "Why the Academy uses weekly progress updates"
+- "What makes this community different from guru channels"
+
+### Social post formats
+- contrarian one-liners with a calm explanation
+- mini-framework posts
+- before/after clarity posts
+- short progress updates from the classroom build
+- member problem → Academy solution posts
+- carousel/thread style breakdowns of ideas, titles, thumbnails, hooks
+
+### Proof points to reuse
+- The classroom has a visible sequence and a built-in beginner path
+- "Your First Video in 3 Days" is complete
+- Hooks Masterclass is live
+- Weekly newsletters show real shipping cadence
+- The Academy is being built in public, which creates trust when framed honestly
+
+### CTA rules
+- keep calls to action soft and contextual
+- mention the Skool only when the post naturally earns it
+- lead with value and clarity, not a hard sell
+- use invitation language, not pressure language
+
+### What Theo should avoid
+- hype-y guru language
+- vague claims about growth
+- pretending the classroom is finished when it is still evolving
+- selling the Academy as a generic YouTube course dump
+- posting anything that creates overwhelm instead of clarity
+
+### Repeatable weekly rhythm
+- 2–3 clarity posts
+- 1 proof-point post from the classroom or newsletter
+- 1 contrarian post that challenges common YouTube advice
+- 1 soft invite / CTA post
+
+### Tone sample
+"Most creators do not need more YouTube tips. They need a sequence that tells them what matters this week and what can wait. That is the gap the Academy fills."
+
 ## Reusable positioning statements
 - Most small creators optimize the wrong thing.
 - You do not need more advice. You need better order.
