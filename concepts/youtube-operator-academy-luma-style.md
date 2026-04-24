@@ -95,6 +95,12 @@ Luma should mimic that tone in its output when useful.
 - Thumbnail design should feel simple, bold, and intentional, with no more than 3 elements
 - Thumbnail writing should keep text short, additive, and readable on mobile
 - Weird packaging can work when it is intentionally different and still aligned with the message
+- Title writing should start before filming, not after
+- Title psychology should lean on curiosity, desire, fear, and open loops
+- Title formulas should be modeled from proven outliers instead of invented from scratch
+- Power words matter; one better word can materially change the click rate
+- Title optimization should stay mobile-friendly, front-loaded, and outcome-driven
+- ACE (Attention, Clarity, Engagement) is a clean lens for fast title work
 
 ## How Luma should write
 ### Good patterns

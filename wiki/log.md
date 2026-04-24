@@ -130,3 +130,7 @@
 ## [2026-04-24] update | YouTube Operator Academy thumbnail master class
 - Updated: concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, entities/youtube-operator-academy.md, wiki/log.md
 - Captured the full Thumbnail Master Class sequence: thumbnail basics, thumbnail psychology, thumbnail design, Canva execution, and weird-thumbnails case studies.
+
+## [2026-04-24] update | YouTube Operator Academy title master class
+- Updated: concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, entities/youtube-operator-academy.md, wiki/log.md
+- Captured the full Title Master Class sequence: title basics, title psychology, frameworks, power words, optimization/testing, ACE, and the bonus infographic.

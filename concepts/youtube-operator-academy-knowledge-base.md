@@ -296,6 +296,53 @@ Observed in the live Skool classroom during VIP browser access:
 - Weirdness must still support the video's message.
 - Novelty, authenticity, and rule-breaking can outperform polished sameness.
 
+### Title Master Class
+#### 1. YouTube Title Basics
+- Titles are a billboard: they have a tiny window to stop the scroll and earn the click.
+- The 50/50 rule applies to title/thumbnail versus content.
+- Write the title before the video so the content matches the promise.
+- Homepage titles can lean on curiosity; search titles need clearer keywords and benefits.
+- CTR is the gatekeeper to distribution.
+
+#### 2. YouTube Title Psychology
+- Emotion drives clicks more than logic.
+- The three click-worthy emotions are curiosity, desire, and fear.
+- Open loops make the brain want closure.
+- Good titles create a small mental itch without lying.
+- Ethical title writing should deliver on the promise.
+
+#### 3. Title Frameworks & Formulas
+- Do not invent titles from scratch when proven formats already exist.
+- Build Dream 10 and Model 10 lists for ongoing title inspiration.
+- Study outlier videos and copy the structure, not the exact wording.
+- Cross-niche inspiration helps titles feel fresh.
+- Proven formats beat blank-page creativity.
+
+#### 4. Power Words & Language Mastery
+- Strong titles often hinge on one better word.
+- Useful power-word buckets: emotional, authority, urgency, exclusivity.
+- Every niche has juicy words that drive clicks.
+- Avoid stale generic words like tips, tricks, and hacks.
+- Build a personal word bank and keep expanding it.
+
+#### 5. Title Optimization & Testing
+- Keep titles under 55 characters when possible for mobile readability.
+- Front-load the important words in the first 5 words.
+- Avoid repeating the thumbnail, adding the channel name, or using vague filler.
+- Lead with outcomes and benefits instead of features.
+- Test titles in the first 24 hours and change underperformers quickly.
+
+#### 6. ACE Framework & Advanced Strategies
+- ACE = Attention, Clarity, Engagement.
+- Attention comes from curiosity gaps and power words.
+- Clarity tells the viewer what they are getting.
+- Engagement speaks directly to desires, fears, or specific audiences.
+- Title and thumbnail should complement each other instead of repeating each other.
+- A systematic workflow beats guessing: research → formula → ACE → test.
+
+#### Bonus infographic
+- The bonus asset is a downloadable summary of the title lessons for visual learners.
+
 ## Use in the wiki
 This framework is the tactical content engine for YouTube Operator Academy.
 

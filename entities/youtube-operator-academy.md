@@ -38,6 +38,7 @@ Channel homepage: https://youtube.com/@youtubeoperatoracademy
   - title and thumbnail are one system
   - common thumbnail mistakes are mostly clutter, unreadability, weak contrast, and repetition
   - Thumbnail Master Class reinforces the 3-element rule, curiosity-gap psychology, Canva execution, and intentional weirdness
+  - Title Master Class reinforces title-first planning, curiosity/desire/fear psychology, proven formulas, power words, mobile-friendly optimization, and the ACE framework
 - Visible community structure:
   - All, General, 📣 Updates, 🏆 Wins, 💎 Gems, ❓ Questions, 👋 Introductions, 📋 Assets, More...
 - Onboarding prompts visible on the community page:
