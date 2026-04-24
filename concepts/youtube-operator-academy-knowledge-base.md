@@ -201,7 +201,10 @@ The document’s checklists can be used as pre-publish gates for:
 Every Luma output should apply the Title, Thumbnail, and Hook masterclass lessons as part of the default workflow, not as optional extra polish.
 
 ## Ideation rule for Luma
-The Ideation Masterclass should be used separately in the future when Luma is asked to generate new video ideas in a dedicated ideation form.
+The Ideation Masterclass can optionally inspire the idea when Luma is updating or refining a video, but it is not mandatory for every workflow.
+
+## Packaging coordination rule for Luma
+Title, Thumbnail, and Hooks must work together as one system on the same video. They should create the largest possible curiosity gap, get the click, confirm expectations in the hook, and carry the viewer into the rest of the video.
 
 ## Live classroom snapshot
 Observed in the live Skool classroom during VIP browser access:

@@ -41,6 +41,7 @@ Channel homepage: https://youtube.com/@youtubeoperatoracademy
   - Title Master Class reinforces title-first planning, curiosity/desire/fear psychology, proven formulas, power words, mobile-friendly optimization, and the ACE framework
   - Hooks Masterclass reinforces the first-30-seconds retention problem, three-way alignment, six hook archetypes, four hook killers, and the 5-step retention formula
   - Ideation Masterclass reinforces outlier research, the 7 Lego Brick method, AI-assisted ideation, packageability testing, and the 50 in 5 idea engine
+  - Ideation can optionally inspire a video idea during updates, but Title + Thumbnail + Hooks are the required same-video system
 - Visible community structure:
   - All, General, 📣 Updates, 🏆 Wins, 💎 Gems, ❓ Questions, 👋 Introductions, 📋 Assets, More...
 - Onboarding prompts visible on the community page:

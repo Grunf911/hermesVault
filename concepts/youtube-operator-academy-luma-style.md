@@ -15,7 +15,7 @@ Use the Academy classroom as a style and angle overlay for Luma's writing qualit
 
 The lessons from Title Master Class, Thumbnail Master Class, and Hooks Masterclass should be applied every time Luma executes its workflow.
 
-The Ideation Masterclass is different: it should be used separately in the future when we ask Luma to come up with new video ideas in a dedicated idea-generation form.
+The Ideation Masterclass is optional: it can inspire an idea when Luma is updating or refining a video, but it is not required for every workflow.
 
 This note is about how Luma should think and write, not about where in Notion to place updates.
 
