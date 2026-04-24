@@ -20,8 +20,16 @@ Timezone: Europe/Stockholm
 - <deliverable 2>
 - <deliverable 3>
 
-### Course-based evaluation checklists
-Use the relevant course takeaways as the evaluation standard instead of a generic 1-5 packaging scale.
+### 1-5 packaging scores
+- Idea: <1-5>
+- Title: <1-5>
+- Thumbnail: <1-5>
+- Hook: <1-5>
+- Description: <1-5>
+- Overall package: <1-5>
+
+### Evaluation notes
+Use the relevant course takeaways as the evaluation standard and explain why each score was chosen.
 
 #### Title evaluation checklist
 - Does the title lead with the strongest emotion, benefit, or curiosity angle?
