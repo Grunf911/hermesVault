@@ -142,3 +142,7 @@
 ## [2026-04-24] update | YouTube Operator Academy ideation masterclass notes
 - Updated: concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, entities/youtube-operator-academy.md, wiki/log.md
 - Captured the full Ideation Masterclass sequence: outlier research, 7 Lego Brick breakdown, AI-powered ideation, packaging-first ideation, the 50 in 5 idea engine, and the bonus checklist/infographic assets.
+
+## [2026-04-24] update | YouTube Operator Academy Luma workflow rule
+- Updated: concepts/youtube-operator-academy-knowledge-base.md, concepts/youtube-operator-academy-luma-style.md, wiki/log.md
+- Clarified that lessons from the Title, Thumbnail, and Hooks masterclasses should be applied by default every time Luma runs its workflow, not treated as optional polish.

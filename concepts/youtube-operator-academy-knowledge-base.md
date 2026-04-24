@@ -197,6 +197,9 @@ The document’s checklists can be used as pre-publish gates for:
 5. Write a hook that matches title and thumbnail
 6. Run the checklists before filming or publishing
 
+## Workflow rule for Luma
+Every Luma output should apply the Title, Thumbnail, and Hook masterclass lessons as part of the default workflow, not as optional extra polish.
+
 ## Live classroom snapshot
 Observed in the live Skool classroom during VIP browser access:
 - 00 - 🚀 Start Here — Overview, Introduction, How-to-Use & Next Steps

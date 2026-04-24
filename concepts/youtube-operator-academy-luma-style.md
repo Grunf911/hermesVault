@@ -13,6 +13,8 @@ contradictions: []
 ## Purpose
 Use the Academy classroom as a style and angle overlay for Luma's writing quality.
 
+The lessons from Title Master Class, Thumbnail Master Class, and Hooks Masterclass should be applied every time Luma executes its workflow.
+
 This note is about how Luma should think and write, not about where in Notion to place updates.
 
 ## What the classroom should change
