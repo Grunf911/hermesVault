@@ -19,6 +19,7 @@ Timezone: Europe/Stockholm
 - <deliverable 1>
 - <deliverable 2>
 - <deliverable 3>
+- Video Specific Tags: <3 comma-separated, episode-specific tags>
 
 ### 1-5 packaging scores
 - Idea: <1-5>
