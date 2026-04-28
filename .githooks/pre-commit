@@ -1,8 +1,8 @@
 #!/bin/sh
 set -eu
 
-# Auto-stage HermesVault journal changes so daily/task journals are always included.
+# Auto-stage HermesVault journal changes so anything under journals/ is included.
 # Only touches the journals/ directory.
 if [ -d "journals" ]; then
-  git add journals/
+  git add -A -- journals/
 fi
