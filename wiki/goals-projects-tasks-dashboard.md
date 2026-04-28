@@ -6,6 +6,7 @@ type: concept
 tags: [project, task, strategy, operations, note]
 sources:
   - Notion dashboard: Goals Projects & Tasks
+  - Gumroad template page: https://alannotion.gumroad.com/l/goalsystem
 contradictions: []
 ---
 
@@ -33,6 +34,20 @@ contradictions: []
 - When focus is active, filtering Projects and Tasks by focus only shows items directly tied to the focused Goal.
 - Use focus mode to remove overwhelm while still allowing unrestricted brain-dump capture.
 - This means you can add future work without cluttering the active lane.
+
+## Product context
+- This dashboard is also one of AlanNotion's business products.
+- It is sold on Gumroad as "Goals Projects & Tasks" for $15.
+- Store page: https://alannotion.gumroad.com/l/goalsystem
+- The product positioning emphasizes connecting daily work to goals and using focus mode to reduce overwhelm.
+
+### Best selling points from the store page
+- Every task is connected to a specific goal.
+- Focus mode hides work that is not relevant to the current priority goal.
+- The system turns a messy task list into a clear action plan.
+- It emphasizes progress tracking so you can see movement toward goals in real time.
+- The marketing promises less overwhelm, less decision fatigue, and more confidence that daily work is compounding into real progress.
+- It frames the system as useful for immediate clarity, short-term productivity gains, and longer-term goal achievement.
 
 ## Practical rules
 - Use Goals for direction.
