@@ -146,3 +146,8 @@
 ## [2026-04-24] update | Luma journal template evaluation
 - Updated: journals/_luma_template.md, wiki/log.md
 - Replaced the generic 1-5 Luma scale with course-based checklists for title, thumbnail, and hook evaluation drawn from the relevant masterclass key takeaways.
+
+## [2026-04-28] create | Goals Projects Tasks dashboard
+- Created: wiki/goals-projects-tasks-dashboard.md, journals/2026-04-28-Theo-Goals-Projects-Tasks-Dashboard.md
+- Updated: wiki/index.md, wiki/log.md
+- Captured the dashboard decision tree, the Goals/Projects/Tasks mental model, and the SetFocus-based focus mode behavior.
