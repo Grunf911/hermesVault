@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-28 | Total pages: 16
+> Last updated: 2026-04-30 | Total pages: 16
 
 ## Companies
 - [[alannotion]] — Notion template business focused on helping parents, dads, moms, and entrepreneurs buy back time. Channel homepage: https://youtube.com/@alannotion. Twitter: https://x.com/alannotion. Instagram: https://www.instagram.com/alannotion. Store: https://alannotion.gumroad.com/. Paid products now include YouTube Operator.
@@ -24,7 +24,7 @@
 - [[alannotion-master-prompt]] — Strategic operating system for the AlanNotion business.
 - [[grunfworks-lets-play-planner]] — Specialized prompt for planning GrunfWorks Let’s Play series.
 - [[youtube-operator-academy-knowledge-base]] — Tactical framework for ideas, titles, thumbnails, and hooks.
-- [[youtube-operator-academy-community-manager]] — Weekly newsletter and community operations playbook from live access.
+- [[youtube-operator-academy-community-manager]] — Weekly newsletter, live access notes, and reusable community manager subagent prompt.
 - [[youtube-operator-academy-luma-style]] — Classroom-derived style and angle overlay for Luma writing.
 - [[youtube-operator-academy-master-prompt]] — Strategic assistant prompt for the Academy.
 - [[youtube-operator-academy-marketing-strategist]] — Specialized prompt for promotion, visibility, and conversion.

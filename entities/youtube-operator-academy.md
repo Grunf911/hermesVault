@@ -1,7 +1,7 @@
 ---
 title: YouTube Operator Academy
 created: 2026-04-17
-updated: 2026-04-24
+updated: 2026-04-30
 type: company
 tags: [business, company, project, marketing, education, strategy, note]
 sources: []
@@ -19,6 +19,7 @@ Channel homepage: https://youtube.com/@youtubeoperatoracademy
 
 ## Live access notes
 - VIP user access confirmed in a logged-in browser session.
+- Logged-in access was re-verified on 2026-04-30; the Community feed and Classroom are browsable.
 - The classroom is still being built; some sections remain empty or in progress.
 - Visible classroom modules:
   - 00 - 🚀 Start Here — Overview, Introduction, How-to-Use & Next Steps
@@ -82,7 +83,7 @@ Keep the latest 10 snapshots only.
 - [[youtube-operator-academy-marketing-strategist]] — Specialized prompt for promotion, visibility, and conversion
 
 ## Community operations
-- [[youtube-operator-academy-community-manager]] — Weekly newsletter and community manager playbook based on live access
+- [[youtube-operator-academy-community-manager]] — Weekly newsletter, live access notes, and reusable community manager subagent prompt
 
 ## Luma writing style
 - [[youtube-operator-academy-luma-style]] — Classroom-derived style and angle overlay for Luma's writing, not workflow routing

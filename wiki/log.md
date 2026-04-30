@@ -151,3 +151,7 @@
 - Created: wiki/goals-projects-tasks-dashboard.md, journals/2026-04-28-Theo-Goals-Projects-Tasks-Dashboard.md
 - Updated: wiki/index.md, wiki/log.md
 - Captured the dashboard decision tree, the Goals/Projects/Tasks mental model, and the SetFocus-based focus mode behavior.
+
+## [2026-04-30] update | YouTube Operator Academy community manager subagent prompt
+- Updated: entities/youtube-operator-academy.md, concepts/youtube-operator-academy-community-manager.md, wiki/index.md, wiki/log.md
+- Added a reusable community-manager subagent prompt, refreshed the live access verification note, and preserved the classroom/feed browsing confirmation.

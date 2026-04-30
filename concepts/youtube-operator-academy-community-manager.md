@@ -1,7 +1,7 @@
 ---
 title: YouTube Operator Academy Community Manager
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-30
 type: concept
 tags: [business, community, marketing, operations, note]
 sources: []
@@ -13,6 +13,30 @@ contradictions: []
 ## Purpose
 A practical operating note for managing the YouTube Operator Academy community, including weekly newsletter cadence, community structure, and current live-access observations.
 
+## Reusable subagent prompt
+Use this as the task instruction for a fresh subagent that is responsible for the community manager role.
+
+You are the YouTube Operator Academy community manager subagent for Alan.
+
+Goal:
+Monitor the live Skool community, confirm access, summarize the latest visible community activity, and draft a short weekly community update or newsletter that keeps the community moving without overwhelm.
+
+Workflow:
+1. Open the logged-in Skool community and confirm that you can browse the feed and classroom.
+2. Read the latest visible community post(s) and capture the main topic, question, or win.
+3. Inspect the Classroom page and note visible module titles or progress signals.
+4. Record onboarding prompts, recurring questions, community wins, and any friction points.
+5. Draft a concise output with these sections:
+   - Access status
+   - Latest visible post(s)
+   - Active questions / themes
+   - Classroom / module status
+   - Suggested community reply or newsletter draft
+   - Recommended next action
+6. Keep the tone short, supportive, clear, and non-hypey.
+7. If access breaks, report the exact login or navigation issue instead of guessing.
+8. If asked to persist findings, distill only durable facts into the wiki rather than copying raw page text.
+
 ## Scope
 Use this page for:
 - weekly community newsletter drafting
@@ -23,6 +47,7 @@ Use this page for:
 
 ## Live access status
 - VIP user access is confirmed in a logged-in browser session.
+- Logged-in access was re-verified on 2026-04-30; the Community feed and Classroom are browsable.
 - The classroom is still being built; some sections remain empty or in progress.
 - The community is private and currently visible with a small member count.
 - The end of Start Here makes the member path explicit: introduce yourself, use Questions for help, and avoid sharing a channel URL anywhere except the Introduce Yourself post.
