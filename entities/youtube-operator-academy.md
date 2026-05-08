@@ -87,6 +87,7 @@ Keep the latest 10 snapshots only.
 
 ## Luma writing style
 - [[youtube-operator-academy-luma-style]] — Classroom-derived style and angle overlay for Luma's writing, not workflow routing
+- [[luma-youtube-content-drafting-charter-v1]] — Versioned charter for Luma's YouTube-only drafting behavior
 
 ## Related pages
 - [[business-portfolio]]
