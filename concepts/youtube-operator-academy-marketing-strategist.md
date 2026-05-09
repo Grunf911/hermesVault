@@ -147,6 +147,11 @@ Market the Academy as the anti-overwhelm YouTube system for creators who want a 
 - lead with value and clarity, not a hard sell
 - use invitation language, not pressure language
 
+### Daily report delivery rule
+- The YTA marketing delivery report must always be emailed to `alangraf911@gmail.com` via AgentMail before any chat-facing version is posted.
+- Chat/origin delivery is supplemental only; it never replaces the email step.
+- The email step is mandatory and the run is incomplete until the send succeeds.
+
 ### What Theo should avoid
 - hype-y guru language
 - vague claims about growth
