@@ -155,3 +155,7 @@
 ## [2026-04-30] update | YouTube Operator Academy community manager subagent prompt
 - Updated: entities/youtube-operator-academy.md, concepts/youtube-operator-academy-community-manager.md, wiki/index.md, wiki/log.md
 - Added a reusable community-manager subagent prompt, refreshed the live access verification note, and preserved the classroom/feed browsing confirmation.
+
+## [2026-05-11] update | AlanNotion Sales OS snapshot
+- Updated: entities/alannotion.md, wiki/index.md
+- Cross-referenced MySalesDB against the AlanNotion template catalog; captured rough current totals of 20 paid sales, 1,131 free acquisitions / lead magnets, and about $228.61 tracked gross revenue.

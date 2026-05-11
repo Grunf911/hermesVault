@@ -1,7 +1,7 @@
 ---
 title: AlanNotion
 created: 2026-04-17
-updated: 2026-04-20
+updated: 2026-05-11
 type: company
 tags: [business, company, project, product, marketing, sales, strategy]
 sources: []
@@ -58,6 +58,30 @@ Keep the latest 10 snapshots only.
 - Goals Projects & Tasks — $15
 - Automated Sales OS — $15
 - Job Seeker Dashboard - Application & Goal Tracker — $15
+
+## Sales OS snapshot
+Source: My Automated Sales OS / MySalesDB in Notion, checked 2026-05-11.
+
+Interpretation rule: rows with `Total Price` greater than 0 are treated as paid sales; zero-price rows are treated as lead magnets / free acquisitions.
+
+Current rough totals:
+- 1,151 total acquisition rows
+- 20 paid sales
+- 1,131 lead-magnet / free acquisitions
+- Rough gross tracked revenue: $228.61
+
+Paid sales by template:
+- YouTube Operator — 5 paid sales, 23 free acquisitions, ~$87.74 tracked revenue
+- Job Seeker - Application Tracker — 4 paid sales, 427 free acquisitions, ~$4.22 tracked revenue
+- Simple Projects & Tasks Tracker — 3 paid sales, 394 free acquisitions, ~$10.00 tracked revenue
+- Goals Projects & Tasks — 3 paid sales, ~$61.65 tracked revenue
+- Ultimate Coffee & Habit Tracker — 2 paid sales, 168 free acquisitions, ~$5.00 tracked revenue
+- Job Seeker Dashboard - Application & Goal Tracker — 2 paid sales, ~$30.00 tracked revenue
+- Automated Sales OS — 1 paid sale, 2 free acquisitions, ~$30.00 tracked revenue
+
+Lead-magnet signal:
+- The largest acquisition drivers are Job Seeker - Application Tracker, Simple Projects & Tasks Tracker, Ultimate Coffee & Habit Tracker, and YouTuber's Tag Manager.
+- Sales Tracker currently has 1 tracked free acquisition and points toward Automated Sales OS.
 
 ## Promotional use
 Free lead magnets can be used in promotional efforts to attract attention, build trust, and move people toward the paid products.

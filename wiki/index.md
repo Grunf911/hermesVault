@@ -2,10 +2,10 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-08 | Total pages: 17
+> Last updated: 2026-05-11 | Total pages: 17
 
 ## Companies
-- [[alannotion]] — Notion template business focused on helping parents, dads, moms, and entrepreneurs buy back time. Channel homepage: https://youtube.com/@alannotion. Twitter: https://x.com/alannotion. Instagram: https://www.instagram.com/alannotion. Store: https://alannotion.gumroad.com/. Paid products now include YouTube Operator.
+- [[alannotion]] — Notion template business focused on helping parents, dads, moms, and entrepreneurs buy back time. Channel homepage: https://youtube.com/@alannotion. Twitter: https://x.com/alannotion. Instagram: https://www.instagram.com/alannotion. Store: https://alannotion.gumroad.com/. Paid products now include YouTube Operator. Sales OS snapshot: 20 paid sales and 1,131 free acquisitions tracked as of 2026-05-11.
 - [[grunfworks]] — YouTube gaming channel focused on space games let's plays. Homepage: https://youtube.com/@grunfworks.
 - [[survivaljoe]] — YouTube survival games channel with tips, reviews, and let's plays. Homepage: https://youtube.com/@survivaljoe.
 - [[youtube-operator-academy]] — Skool community for growing on YouTube without overwhelm. Main homepage: https://www.skool.com/youtube-academy-7758/about. Channel homepage: https://youtube.com/@youtubeoperatoracademy. Subscriber history: 2026-04-17 — 3 subscribers. Live classroom notes now cover Start Here, Initial Set-Up, and the first-video path.
