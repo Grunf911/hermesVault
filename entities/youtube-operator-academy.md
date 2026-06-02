@@ -1,7 +1,7 @@
 ---
 title: YouTube Operator Academy
 created: 2026-04-17
-updated: 2026-04-30
+updated: 2026-06-02
 type: company
 tags: [business, company, project, marketing, education, strategy, note]
 sources: []
@@ -81,6 +81,9 @@ Keep the latest 10 snapshots only.
 
 ## Marketing strategist
 - [[youtube-operator-academy-marketing-strategist]] — Specialized prompt for promotion, visibility, and conversion
+
+## Launch strategy
+- [[academy-mentorship-launch-bottleneck-memo-2026-06-02]] — Current Academy / Pascio mentorship launch path, blockers, and next decision map
 
 ## Community operations
 - [[youtube-operator-academy-community-manager]] — Weekly newsletter, live access notes, and reusable community manager subagent prompt

@@ -1,7 +1,7 @@
 ---
 title: AlanNotion
 created: 2026-04-17
-updated: 2026-05-11
+updated: 2026-06-02
 type: company
 tags: [business, company, project, product, marketing, sales, strategy]
 sources: []
@@ -94,6 +94,9 @@ Free lead magnets can be used in promotional efforts to attract attention, build
 
 ## Weekly execution checklist
 - [[alannotion-weekly-execution-checklist]] — Weekly plan for choosing one offer, creating drafts, getting approval, publishing, and logging results to the daily journal
+
+## Launch bottleneck memo
+- [[academy-mentorship-launch-bottleneck-memo-2026-06-02]] — One-page decision map for finishing the Academy / Pascio mentorship launch path before adding new work
 
 ## Related pages
 - [[business-portfolio]]

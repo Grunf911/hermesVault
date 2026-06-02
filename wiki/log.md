@@ -159,3 +159,8 @@
 ## [2026-05-11] update | AlanNotion Sales OS snapshot
 - Updated: entities/alannotion.md, wiki/index.md
 - Cross-referenced MySalesDB against the AlanNotion template catalog; captured rough current totals of 20 paid sales, 1,131 free acquisitions / lead magnets, and about $228.61 tracked gross revenue.
+
+## [2026-06-02] create | Academy / mentorship launch bottleneck memo
+- Created: concepts/academy-mentorship-launch-bottleneck-memo-2026-06-02.md
+- Updated: entities/alannotion.md, entities/youtube-operator-academy.md, wiki/index.md
+- Captured the current focused Notion launch lane, remaining checkout/proof/copy/course blockers, and the work that can be ignored until the buying path is live.

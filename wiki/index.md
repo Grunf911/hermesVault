@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-11 | Total pages: 17
+> Last updated: 2026-06-02 | Total pages: 18
 
 ## Companies
 - [[alannotion]] — Notion template business focused on helping parents, dads, moms, and entrepreneurs buy back time. Channel homepage: https://youtube.com/@alannotion. Twitter: https://x.com/alannotion. Instagram: https://www.instagram.com/alannotion. Store: https://alannotion.gumroad.com/. Paid products now include YouTube Operator. Sales OS snapshot: 20 paid sales and 1,131 free acquisitions tracked as of 2026-05-11.
@@ -19,6 +19,7 @@
 ## Meetings
 
 ## Concepts
+- [[academy-mentorship-launch-bottleneck-memo-2026-06-02]] — One-page decision memo for the Academy / Pascio mentorship launch path, current blockers, and what to ignore next.
 - [[alannotion-promotion-map]] — Free lead magnets mapped to paid AlanNotion products, including YouTube Operator.
 - [[alannotion-weekly-execution-checklist]] — Weekly execution checklist for AlanNotion promotion and journal logging.
 - [[alannotion-master-prompt]] — Strategic operating system for the AlanNotion business.
