@@ -17,7 +17,7 @@ Create an operating workflow where Alan can send a rough topic, phone-note idea,
 - Future mode: **Option D later** — schedule approved drafts automatically once trust is proven.
 - Calendar home: **Notion database** supplied by Alan. Hermes may add or modify fields needed for the workflow.
 - Posting goal: work toward **3 posts/day**.
-- Default slots: **08:00, 12:30, 19:30 Europe/Stockholm**.
+- Internal/default slots: **08:00, 13:00, 19:45 Europe/Stockholm**, matching the existing Typefully queue. Do not change Typefully's queue unless Alan explicitly requests it.
 - Content lanes: **Value, Connection, Systems**.
 - Scheduling options to evaluate: **X native scheduling** and **Typefully**.
 - Public posting/scheduling rule: **No public post, reply, quote, like, repost, follow, DM, delete, or schedule action without Alan's explicit approval of the final copy/batch.**
@@ -58,10 +58,10 @@ Create an operating workflow where Alan can send a rough topic, phone-note idea,
 ## Weekly calendar workflow
 1. Gather the available idea backlog from Notion plus any new Telegram inputs.
 2. Build a weekly mix across Value / Connection / Systems.
-3. Draft posts for the week using these default slots:
+3. Draft posts for the week using the existing Typefully queue slots:
    - Morning: 08:00
-   - Lunch: 12:30
-   - Evening: 19:30
+   - Lunch: 13:00
+   - Evening: 19:45
 4. Balance the week:
    - avoid three heavy how-to posts on the same day
    - include personality/proof, not just tips
@@ -95,7 +95,7 @@ Fields added by Hermes for the AlanNotion X pipeline:
 - `Approval` — Not ready, Needs Alan approval, Approved, Changes requested.
 - `Recommended` — checkbox for strongest weekly candidates.
 - `Quality Score` — numeric combined draft score.
-- `Slot` — 08:00, 12:30, 19:30.
+- `Slot` — 08:00, 13:00, 19:45.
 - `Typefully Draft ID` — draft identifier after Typefully draft creation.
 - `Typefully URL` — private/draft URL when available.
 - `Published URL` — final X URL after publishing.
@@ -170,7 +170,7 @@ Verification result: **connected and working**.
 - Current queue slots: 08:00, 13:00, 19:45 daily.
 - Media/draft verification succeeded: uploaded a tiny PNG, media reached `ready`, created an X draft with media, verified draft status `draft`, then deleted the test draft. No public post was scheduled or published.
 
-Recommendation: use Typefully as the first scheduling path, especially for image/media posts. Before changing queue times from current 08:00 / 13:00 / 19:45 to target 08:00 / 12:30 / 19:30, ask Alan because replacing the Typefully queue schedule is an admin-level full replacement.
+Recommendation: use Typefully as the first scheduling path, especially for image/media posts. Alan decided not to change the Typefully queue; Hermes should use 08:00 / 13:00 / 19:45 Europe/Stockholm as its internal publishing slots.
 
 ### x-cli / local X tooling
 Likely usable for posting after approval, but may not support native future scheduling. If it only supports immediate posting, use cron jobs or an external scheduler only after approval and safety checks.
@@ -185,11 +185,8 @@ Likely usable for posting after approval, but may not support native future sche
 - Push back if 21 posts/week lowers trust or quality.
 
 ## Open questions for Alan
-1. Provide the Notion database URL or ID.
-2. Confirm whether Hermes should add the proposed fields directly when database access is available.
-3. Confirm whether Typefully is the preferred scheduler to investigate first.
-4. Confirm whether approved batches should be scheduled immediately after approval or held in Ready to Schedule until a final scheduling command.
-5. Confirm if the first weekly batch should be 21 drafted slots or a safer 7–14 best-post batch.
+1. Confirm whether approved batches should be scheduled immediately after approval or held in Ready to Schedule until a final scheduling command.
+2. Confirm if the first weekly batch should be 21 drafted slots or a safer 7–14 best-post batch.
 
 ## Definition of done for v1 setup
 - Notion database connected and schema inspected.
