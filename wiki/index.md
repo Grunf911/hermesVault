@@ -21,6 +21,7 @@
 ## Concepts
 - [[academy-mentorship-launch-bottleneck-memo-2026-06-02]] — One-page decision memo for the Academy / Pascio mentorship launch path, current blockers, and what to ignore next.
 - [[alannotion-promotion-map]] — Free lead magnets mapped to paid AlanNotion products, including YouTube Operator.
+- [[alannotion-x-content-pipeline-v1]] — Draft operating workflow for turning Alan's raw X ideas into a Notion-backed weekly content calendar and approval/scheduling pipeline.
 - [[alannotion-weekly-execution-checklist]] — Weekly execution checklist for AlanNotion promotion and journal logging.
 - [[alannotion-master-prompt]] — Strategic operating system for the AlanNotion business.
 - [[grunfworks-lets-play-planner]] — Specialized prompt for planning GrunfWorks Let’s Play series.
