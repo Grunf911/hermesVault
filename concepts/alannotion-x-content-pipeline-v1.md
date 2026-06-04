@@ -136,7 +136,31 @@ Before automatic scheduling is enabled, test and document one safe path:
 Open question: whether Hermes can automate native X scheduled posts reliably and safely from this environment.
 
 ### Typefully
-Open question: whether Typefully exposes an API, integration, email-in flow, browser automation path, or Zapier/Make route that Hermes can safely use.
+Initial investigation result: **best first candidate**.
+
+Typefully has a public API at `https://api.typefully.com/v2` that supports:
+- Creating drafts: `POST /v2/social-sets/{social_set_id}/drafts`
+- Saving as draft when `publish_at` is omitted
+- Scheduling with `publish_at` using an ISO 8601 datetime with timezone
+- Publishing immediately with `publish_at: "now"`
+- Scheduling to the next queue slot with `publish_at: "next-free-slot"`
+- Queue schedule inspection/replacement
+- Media upload flow for images/video/GIF/PDF
+- Attaching uploaded media to individual posts via `media_ids`
+- X quote posts via `quote_post_url`
+- X reply drafts/posts via `settings.reply_to_url`
+- Published URL retrieval after publishing
+- X analytics endpoints for posts and followers
+
+Media support is strong enough for Alan's requirement: Typefully supports upload file extensions `.jpg`, `.jpeg`, `.png`, `.webp`, `.gif`, `.mp4`, `.mov`, and `.pdf`. Upload flow is:
+1. Create media upload with filename.
+2. PUT raw bytes to returned presigned S3 URL using no extra headers.
+3. Poll media status until `ready`.
+4. Add returned `media_id` to the post's `media_ids`.
+
+Current blocker: Hermes does not yet have a Typefully API key in environment. Candidate env var: `TYPEFULLY_API_KEY`.
+
+Recommendation: use Typefully as the first scheduling path, especially for image posts, once Alan provides/installs an API key and confirms the connected social set is `@alannotion`.
 
 ### x-cli / local X tooling
 Likely usable for posting after approval, but may not support native future scheduling. If it only supports immediate posting, use cron jobs or an external scheduler only after approval and safety checks.
