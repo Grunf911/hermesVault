@@ -158,9 +158,19 @@ Media support is strong enough for Alan's requirement: Typefully supports upload
 3. Poll media status until `ready`.
 4. Add returned `media_id` to the post's `media_ids`.
 
-Current blocker: Hermes does not yet have a Typefully API key in environment. Candidate env var: `TYPEFULLY_API_KEY`.
+Verification result: **connected and working**.
 
-Recommendation: use Typefully as the first scheduling path, especially for image posts, once Alan provides/installs an API key and confirms the connected social set is `@alannotion`.
+- `TYPEFULLY_API_KEY` is installed and authenticates successfully.
+- `TYPEFULLY_MCP_SERVER_URL` is installed and works as a Streamable HTTP MCP server.
+- Hermes MCP server `typefully` is configured in `~/.hermes/config.yaml` with 25 tools enabled; a new session / gateway restart is required before those tools appear as native Hermes tools.
+- Typefully social set: `257912`.
+- Connected X account: `@AlanNotion`.
+- Publishing quota at verification: 1000 remaining, resets 2026-07-01 00:00 Europe/Stockholm.
+- Queue timezone: Europe/Stockholm.
+- Current queue slots: 08:00, 13:00, 19:45 daily.
+- Media/draft verification succeeded: uploaded a tiny PNG, media reached `ready`, created an X draft with media, verified draft status `draft`, then deleted the test draft. No public post was scheduled or published.
+
+Recommendation: use Typefully as the first scheduling path, especially for image/media posts. Before changing queue times from current 08:00 / 13:00 / 19:45 to target 08:00 / 12:30 / 19:30, ask Alan because replacing the Typefully queue schedule is an admin-level full replacement.
 
 ### x-cli / local X tooling
 Likely usable for posting after approval, but may not support native future scheduling. If it only supports immediate posting, use cron jobs or an external scheduler only after approval and safety checks.
