@@ -2,7 +2,7 @@
 title: AlanNotion X Content Pipeline v1
 version: 1.0
 created: 2026-06-04
-status: Draft for Alan approval
+status: Connected to Notion + Typefully
 owner: Theo / Hermes
 account: "@alannotion"
 ---
@@ -80,35 +80,35 @@ Recommended launch mode:
 - If quality is uneven, prioritize 7–14 strongest posts rather than filling all 21 slots.
 - Keep reply-target workflow separate from main feed slots.
 
-## Proposed Notion database fields
-Minimum useful fields:
-- Name / Title — post title or short identifier.
-- Raw Idea — original input or summary.
-- Source Type — Topic, Text, Voice, Image, Screenshot, Link, Repurposed, Other.
-- Source Link / Asset — URL or file reference when available.
-- Content Lane — Value, Connection, Systems.
-- Format — Tweet, Thread, Long-form, Giveaway, Reply, Quote tweet, Article.
-- Draft Text — final approval candidate.
-- Hook — first line / main scroll-stopper.
-- Status — Inbox, Developed, Drafted, Needs Edit, Awaiting Batch Approval, Approved, Ready to Schedule, Scheduled, Posted, Rejected, Archived.
-- Approval Batch — week or batch name, e.g. 2026-W24.
-- Scheduled Date/Time — intended posting time in Europe/Stockholm.
-- Platform — X.
-- Scheduling Tool — Manual, X Native, Typefully, x-cli, Other.
-- Posted URL — final X URL after posting.
-- Scores — hook / voice / originality / personalization / density / shape.
-- CTA / Lead Magnet — None, Packaging Checklist, Ideation Checklist, YouTube Operator, Skool, Other.
-- Notes / Feedback — Alan comments and revision notes.
-- Outcome — Accepted, Rejected, Reworked, Ignored.
-- Metrics — impressions, likes, replies, reposts, bookmarks, follows, sales/lead signal when available.
+## Implemented Notion database
+Alan provided the production Notion content calendar database:
 
-Nice-to-have fields:
-- Series Name — for multi-post sequences.
-- Parent Idea — relation back to original idea.
-- Repurpose Source — YouTube video, newsletter, Skool post, old X post, etc.
-- Target Reader — busy parent creator, YouTuber, Notion user, AI workflow buyer, etc.
-- Confidence — High, Medium, Low.
-- Approval Checkbox — quick batch review helper.
+- Database: `X_Calendar_DB`
+- Database ID: `375fca354191806a9487fe0e32ddb59d`
+- Existing fields preserved: `Title`, `Summary`, `File`, `Type`, `Topic`, `status`, `Publish Date`, `created`.
+- Existing `status` is kept simple: `Not started`, `In progress`, `Done`.
+
+Fields added by Hermes for the AlanNotion X pipeline:
+- `Workflow Stage` — Inbox, Developed, Drafted, Awaiting Batch Approval, Approved, Typefully Drafted, Scheduled, Published, Rejected.
+- `Lane` — Value, Connection, Systems.
+- `Format` — Single post, Thread, Reply, Quote, Giveaway, Poll.
+- `Approval` — Not ready, Needs Alan approval, Approved, Changes requested.
+- `Recommended` — checkbox for strongest weekly candidates.
+- `Quality Score` — numeric combined draft score.
+- `Slot` — 08:00, 12:30, 19:30.
+- `Typefully Draft ID` — draft identifier after Typefully draft creation.
+- `Typefully URL` — private/draft URL when available.
+- `Published URL` — final X URL after publishing.
+- `Source` — Telegram text, Voice, Image, Link, Manual, Cron.
+- `Raw Idea` — original idea/input summary.
+- `Final Copy` — approved final candidate text when short enough for a property; longer copy can live in the page body.
+- `Media Notes` — image/video/screenshot handling notes.
+
+Verification item created:
+- Title: `Hermes pipeline test — raw idea intake`
+- Page ID: `375fca35-4191-815f-8e33-c70a514555be`
+- URL: `https://app.notion.com/p/Hermes-pipeline-test-raw-idea-intake-375fca354191815f8e33c70a514555be`
+- No public X action, Typefully draft, or schedule action was taken from this Notion item.
 
 ## Batch approval protocol
 When a weekly batch is ready, Hermes sends Alan:
