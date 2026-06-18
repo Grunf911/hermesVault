@@ -19,10 +19,46 @@ Typefully queue → Published X posts → Typefully/X metrics → Analytics read
 
 - Analytics may update logs, briefs, and recommendations autonomously.
 - Analytics may influence future drafts and batch briefs.
-- Analytics must not publish, reschedule, delete, or rewrite public content without Alan's explicit approval.
+- Typefully scheduling may be autonomous when the matching XContent Calendar record is created/updated.
+- Do not use MainDB for X scheduling or analytics; MainDB is YouTube-only.
+- Destructive actions and X engagement actions still require Alan's explicit approval.
 - Only one strategy variable changes per week unless Alan overrides it.
 - Compare against AlanNotion baseline first: 200 impressions, 4 likes, 1 reply, 1 bookmark.
 - Treat early low-volume metrics as weak signals, not proof.
+
+
+## Canonical Notion layer
+
+Alan's X scheduling and analytics loop uses the **XContent Calendar** Notion database, not MainDB. MainDB is reserved for YouTube/MainDB work.
+
+Use this Notion data source for all scheduled Typefully posts and analytics sync:
+
+- Human link: https://app.notion.com/p/X-Content-Calendar-375fca35419180ac9124f6078b310ed1?source=copy_link
+- Notion page ID: `375fca35-4191-80ac-9124-f6078b310ed1`
+- Embedded child database block ID: `375fca35-4191-806a-9487-fe0e32ddb59d`
+- API data source name: `X_Calendar_DB`
+- API data source ID: `375fca35-4191-80d6-973e-000b754b5e60`
+
+Every autonomous Typefully scheduling action should create or update a matching XContent Calendar page with the post copy, publish date/slot, lane, format, Typefully draft ID/URL, workflow stage, and eventually X analytics.
+
+Scheduling approval model update: Typefully scheduling can be autonomous as long as the XContent Calendar is kept in sync. Destructive actions and engagement actions such as replies, likes, follows, DMs, deleting, or changing unrelated assets still require explicit approval.
+
+### Analytics fields added to X_Calendar_DB
+
+The feedback loop added these properties to support analytics sync:
+
+- `X Post ID`
+- `Impressions`
+- `Likes`
+- `Replies`
+- `Reposts`
+- `Quotes`
+- `Bookmarks`
+- `Profile Clicks`
+- `Last Analytics Sync`
+- `Analytics Checkpoint`
+- `vs Baseline`
+- `Analytics Lesson`
 
 ## Files
 

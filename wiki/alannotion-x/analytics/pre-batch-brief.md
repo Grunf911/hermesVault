@@ -1,6 +1,6 @@
 # Latest Pre-Batch Feedback Brief
 
-Status: initialized — first real brief will be generated after the first weekly analytics report.
+Status: initialized — XContent Calendar is now the canonical schedule/analytics layer.
 
 ## Current lesson to inject
 
@@ -10,12 +10,22 @@ Use the approved hypothesis until replaced by data:
 
 ## Batch constraints for the next Typefully batch
 
-- Keep Alan's approval gate: do not schedule without batch approval.
+- Scheduling approval update: autonomous Typefully scheduling is allowed if XContent Calendar is kept in sync.
 - Keep one-variable discipline: do not change cadence, lane mix, hook style, and CTA style all at once.
 - Include metadata in Typefully draft titles/scratchpad when possible: campaign, lane, format, hypothesis.
 - Prioritize posts that tie AI/Notion systems to real family/time leverage.
 
 ## Open questions
 
-- Whether Alan wants these analytics artifacts mirrored into Notion MainDB or kept filesystem-first in HermesVault.
-- Whether Typefully scratchpad metadata should be retrofitted into already-scheduled drafts or only applied to future drafts.
+- Backfill scheduled Typefully posts into XContent Calendar where missing.
+- Decide whether existing scheduled Typefully drafts should be enriched with scratchpad metadata or only XContent Calendar metadata.
+
+
+## Canonical database
+
+Use XContent Calendar / `X_Calendar_DB` for this workflow. Do not use MainDB.
+
+- Data source ID: `375fca35-4191-80d6-973e-000b754b5e60`
+- Every Typefully scheduled post should have a matching XContent Calendar row.
+- Analytics should update that same row using `Typefully Draft ID`, `Published URL`, and `X Post ID` matching where available.
+- Approval is no longer required for autonomous Typefully scheduling if the calendar row is kept in sync.

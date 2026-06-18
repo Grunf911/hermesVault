@@ -12,15 +12,32 @@
   "approval_gate": {
     "analytics_logs_autonomous": true,
     "draft_generation_autonomous": true,
-    "typefully_scheduling_requires_batch_approval": true,
-    "public_x_actions_require_explicit_approval": true
+    "typefully_scheduling_autonomous_when_xcontent_calendar_updated": true,
+    "xcontent_calendar_is_canonical_schedule_layer": true,
+    "destructive_or_engagement_actions_require_explicit_approval": true
   },
   "active_experiment": {
     "name": "Concrete lived-detail vs generic quote/advice",
     "started": "2026-06-18",
     "status": "active",
     "one_variable": "Increase/measure concrete busy-parent creator system details without changing more than one weekly content variable",
-    "success_signals": ["replies", "profile_clicks", "bookmarks", "impressions relative to baseline and rolling average"]
+    "success_signals": [
+      "replies",
+      "profile_clicks",
+      "bookmarks",
+      "impressions relative to baseline and rolling average"
+    ],
+    "latest_observation": {
+      "timestamp": "2026-06-18T17:52:27+02:00",
+      "summary": "Concrete lived-detail creator-system posts still look like the best long-term fit, but the fresh June 18 batch is too early; the biggest signal remains earlier lived-detail/system posts with personal detail and utility.",
+      "evidence": {
+        "current_followers_count": 410,
+        "window_impressions_total": 6097,
+        "window_posts": 80,
+        "three_x_impression_posts": 1,
+        "above_baseline_posts": 5
+      }
+    }
   },
   "latest_weekly_report": null,
   "latest_pre_batch_brief": "pre-batch-brief.md",
@@ -41,10 +58,31 @@
       "deliver": "origin"
     }
   },
-  "latest_setup_update": "2026-06-18",
+  "latest_setup_update": "2026-06-18-xcontent-calendar-integrated",
   "notes": [
     "Seeded after Alan approved the closed but gated feedback-loop design.",
     "Typefully social set 257912 is the source of scheduled/published drafts.",
-    "Typefully X analytics endpoint is available and returns post metrics with draft_id matches when possible."
-  ]
+    "Typefully X analytics endpoint is available and returns post metrics with draft_id matches when possible.",
+    "XContent Calendar / X_Calendar_DB is the canonical Notion layer for Typefully-scheduled X posts and analytics.",
+    "MainDB is YouTube-only and must not be used for the AlanNotion X scheduling/analytics loop.",
+    "Typefully scheduling can be autonomous when the matching XContent Calendar record is created or updated."
+  ],
+  "latest_daily_collection": {
+    "timestamp": "2026-06-18T17:52:27+02:00",
+    "analytics_posts": 80,
+    "followers_count": 410,
+    "queue_window": "2026-06-18..2026-07-09",
+    "queue_open_slots": 7,
+    "queue_scheduled_slots": 32,
+    "notable_count": 15
+  },
+  "notion": {
+    "x_content_calendar_name": "X_Calendar_DB",
+    "database_url": "https://app.notion.com/p/X-Content-Calendar-375fca35419180ac9124f6078b310ed1?source=copy_link",
+    "data_source_id": "375fca35-4191-80d6-973e-000b754b5e60",
+    "searched_page_id_from_user_link": "375fca35419180ac9124f6078b310ed1",
+    "note": "After Alan shared the integration, the X Content Calendar page is API-accessible. The embedded child_database block is X_Calendar_DB; use data_source_id for queries/updates.",
+    "page_id": "375fca35-4191-80ac-9124-f6078b310ed1",
+    "database_block_id": "375fca35-4191-806a-9487-fe0e32ddb59d"
+  }
 }
