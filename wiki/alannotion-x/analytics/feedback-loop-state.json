@@ -1,0 +1,50 @@
+{
+  "system": "alannotion-x-analytics-feedback-loop",
+  "social_set_id": 257912,
+  "x_handle": "AlanNotion",
+  "timezone": "Europe/Stockholm",
+  "baseline": {
+    "impressions": 200,
+    "likes": 4,
+    "replies": 1,
+    "bookmarks": 1
+  },
+  "approval_gate": {
+    "analytics_logs_autonomous": true,
+    "draft_generation_autonomous": true,
+    "typefully_scheduling_requires_batch_approval": true,
+    "public_x_actions_require_explicit_approval": true
+  },
+  "active_experiment": {
+    "name": "Concrete lived-detail vs generic quote/advice",
+    "started": "2026-06-18",
+    "status": "active",
+    "one_variable": "Increase/measure concrete busy-parent creator system details without changing more than one weekly content variable",
+    "success_signals": ["replies", "profile_clicks", "bookmarks", "impressions relative to baseline and rolling average"]
+  },
+  "latest_weekly_report": null,
+  "latest_pre_batch_brief": "pre-batch-brief.md",
+  "cron_jobs": {
+    "daily_collector": {
+      "job_id": "294b18e3c67d",
+      "schedule": "10 9 * * *",
+      "deliver": "local"
+    },
+    "weekly_analytics_brief": {
+      "job_id": "b43a56cd3d20",
+      "schedule": "45 8 * * 1",
+      "deliver": "origin"
+    },
+    "pre_batch_feedback_injector": {
+      "job_id": "d52bdebcd9d7",
+      "schedule": "15 9 * * 1",
+      "deliver": "origin"
+    }
+  },
+  "latest_setup_update": "2026-06-18",
+  "notes": [
+    "Seeded after Alan approved the closed but gated feedback-loop design.",
+    "Typefully social set 257912 is the source of scheduled/published drafts.",
+    "Typefully X analytics endpoint is available and returns post metrics with draft_id matches when possible."
+  ]
+}
