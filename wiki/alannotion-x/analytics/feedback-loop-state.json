@@ -28,14 +28,14 @@
       "impressions relative to baseline and rolling average"
     ],
     "latest_observation": {
-      "timestamp": "2026-06-18T17:52:27+02:00",
-      "summary": "Concrete lived-detail creator-system posts still look like the best long-term fit, but the fresh June 18 batch is too early; the biggest signal remains earlier lived-detail/system posts with personal detail and utility.",
+      "timestamp": "2026-06-18T18:24:33+02:00",
+      "summary": "Concrete lived-detail creator-system posts still look like the best long-term fit; the newest June 18 posts remain too early, and the older lived-detail/system posts with personal detail still dominate the clearest outliers.",
       "evidence": {
         "current_followers_count": 410,
         "window_impressions_total": 6097,
         "window_posts": 80,
         "three_x_impression_posts": 1,
-        "above_baseline_posts": 5
+        "above_baseline_posts": 12
       }
     }
   },
@@ -68,13 +68,16 @@
     "Typefully scheduling can be autonomous when the matching XContent Calendar record is created or updated."
   ],
   "latest_daily_collection": {
-    "timestamp": "2026-06-18T17:52:27+02:00",
+    "timestamp": "2026-06-18T18:24:33+02:00",
     "analytics_posts": 80,
     "followers_count": 410,
     "queue_window": "2026-06-18..2026-07-09",
-    "queue_open_slots": 7,
+    "queue_open_slots": 34,
     "queue_scheduled_slots": 32,
-    "notable_count": 15
+    "notable_count": 5,
+    "notion_backfill_created_analytics": 66,
+    "notion_backfill_created_scheduled": 0,
+    "notion_total_pages_verified": "112 expected (query pagination pending)"
   },
   "notion": {
     "x_content_calendar_name": "X_Calendar_DB",
